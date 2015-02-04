@@ -19,24 +19,24 @@ Herbman     =       DanceVegi   +       Any Devil
 Herbman     =       Any Plant   +       FunkyBird   
 Beanman     =       Any Plant   +       PillowRat   
 Evilseed    =       Any Plant   +       RockSlime
-BigEye
-DuckKite
-ButterFly
-Eyeder
-DarkEye
-EyeBall
-MadMirror   
+Evilseed    =       Any Plant   +       BigEye
+Evilseed    =       Any Plant   +       DuckKite
+Evilseed    =       Any Plant   +       ButterFly
+Evilseed    =       Any Plant   +       Eyeder
+Evilseed    =       Any Plant   +       DarkEye
+Evilseed    =       Any Plant   +       EyeBall
+Evilseed    =       Any Plant   +       MadMirror   
 Maneater    =       EvilSeed    +       EvilSeed    
 Snapper     =       ManEater    +       ManEater    
 Ghostree    =       Stubsuck    +       Puppetor
-Any Zombie  
+Ghostree    =       Stubsuck    +       Any Zombie  
 Rosevine    =       Any Plant   +       Any Boss    
 Egdracil    =       RoseVine    +       Gigantes    
 Watabou     =       ?????   +       ?????   Only available thru Terry Mode. You need to mate Watabou from DWM with Warubou from DWM2, Warubou will turn into Watabou.
 Warubou     =       ?????   +       ?????   Complete the Magic Plug Quest, capture and breed 250 types of monsters and Warubou gives you his son Petitbou. Then when you hit 290 types of monsters Warubou will join you.
 Eggplaton   =       Any Plant   +       Aquarella
-Lipsy
-Droll   
+Eggplaton   =       Any Plant   +       Lipsy
+Eggplaton   =       Any Plant   +       Droll   
 FooHero     =       TreeBoy     +       Slimenite
-Beastnite
-Hammerman
+FooHero     =       TreeBoy     +       Beastnite
+FooHero     =       TreeBoy     +       Hammerman
