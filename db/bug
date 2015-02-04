@@ -18,28 +18,32 @@ Eyeder  =       Catapila    +       Any Beast
 Eyeder  =       Any Bug     +       Gamanian    
 Giantmoth   =       ButterFly   +       Any Devil   
 Giantmoth   =       Any Bug     +       Saccer  
-Droll   =       ButterFly
-TailEater
-Eyeder  +       ButterFly
-TailEater
-Eyeder  
+Droll   =       ButterFly  +       ButterFly
+Droll   =       TailEater  +       ButterFly
+Droll   =       Eyeder  +       ButterFly
+Droll   =       ButterFly  +       TailEater
+Droll   =       TailEater  +       TailEater
+Droll   =       Eyeder  +       TailEater
+Droll   =       ButterFly  +       Eyeder  
+Droll   =       TailEater  +       Eyeder  
+Droll   =       Eyeder  +       Eyeder  
 Droll   =       Lipsy   +       Any Slime   
 Droll   =       Any Bug     +       Spooky  
 Armycrab    =       Any Bug     +       DarkCrab    
 Armycrab    =       Any Bug     +       Cancerman   
-Madhornet   =       Eyeder
-Droll
-Pyuro   +       Any Zombie  
+Madhornet   =       Eyeder   +       Any Zombie  
+Madhornet   =       Droll   +       Any Zombie  
+Madhornet   =       Pyuro   +       Any Zombie  
 Madhornet   =       Any Bug     +       FairyRat    
 Belzebub    =       MadHornet   +       GoHopper
-Any Zombie  
+Belzebub    =       MadHornet   +       Any Zombie  
 Belzebub    =       MultiEyes   +       ButterFly
-Pyuro   
+Belzebub    =       MultiEyes   +       Pyuro   
 Warmantis   =       Sickler     +       Any Devil   
 Hornbeet    =       StagBug     +       StagBug     
 Hornbeet    =       Armorpede   +       Any Devil   
 Sickler     =       Any Bug     +       1EyeClown
-Reaper  
+Sickler     =       Any Bug     +       Reaper  
 Sickler     =       WarMantis   +       Any Slime   
 Armorpion   =       HornBeet    +       Hornbeet    
 Digster     =       Any Bug     +       Any Boss    
