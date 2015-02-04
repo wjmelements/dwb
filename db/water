@@ -10,58 +10,58 @@ PutreFish   =       Any Water   +       Any Zombie
 Octoreach   =       Petiteel    +       Any Beast   
 Angleron    =       Petiteel    +       Any Material    
 FishRider   =       Angleron    +       Pixy
-Demonite
-SkulRider
-Gremlin     
+FishRider   =       Angleron    +       Demonite
+FishRider   =       Angleron    +       SkulRider
+FishRider   =       Angleron    +       Gremlin     
 RushFish    =       Angleron    +       Gulpbeast
-Droll
-Any Dragon  
+RushFish    =       Angleron    +       Droll
+RushFish    =       Angleron    +       Any Dragon  
 Gamanian    =       Aquarella   +       DarkEye
-MedusaEye
-Bug     
+Gamanian    =       Aquarella   +       MedusaEye
+Gamanian    =       Aquarella   +       Bug     
 Clawster    =       Gamanian    +       ArmyCrab
-Any Devil   
+Clawster    =       Gamanian    +       Any Devil   
 CancerMan   =       Clawster    +       Clawster
-Any Devil   
+CancerMan   =       Clawster    +       Any Devil   
 RogueWave   =       Any Water   +       JewelBag    
 Scallopa    =       RogueWave   +       Mimic
-Any Devil   
+Scallopa    =       RogueWave   +       Any Devil   
 SeaHorse    =       Petiteel    +       Any Dragon
-Any Devil   
+SeaHorse    =       Petiteel    +       Any Devil   
 HoodSquid   =       CancerMan   +       WhaleMage
-EvilWand    
+HoodSquid   =       CancerMan   +       EvilWand    
 MerTiger    =       Merman  +       GulpBeast
-MadCat  
+MerTiger    =       Merman  +       MadCat  
 AxeShark    =       CancerMan   +       BattleRex
-ArcDemon    
+AxeShark    =       CancerMan   +       ArcDemon    
 Octogon     =       Octoreach   +       Octoreach   *Monster created must be of +5 or higher to succeed
-KingSquid   =       Octogon     +       Octogon
-Any Boss    *Monster created must be of +5 or higher to succeed
+KingSquid   =       Octogon     +       Octogon    *Monster created must be of +5 or higher to succeed
+KingSquid   =       Octogon     +       Any Boss    *Monster created must be of +5 or higher to succeed
 Digong  =       RushFish    +       Spikerous
-RogueWave
-MadGoose
-Gigantes
-Golem   
+Digong  =       RushFish    +       RogueWave
+Digong  =       RushFish    +       MadGoose
+Digong  =       RushFish    +       Gigantes
+Digong  =       RushFish    +       Golem   
 WhaleMage   =       HoodSquid   +       1EyeClown
-Reaper
-RushFish    
+WhaleMage   =       HoodSquid   +       Reaper
+WhaleMage   =       HoodSquid   +       RushFish    
 Aquadon     =       Digong  +       GreatDrak
-Coatol
-Orligon     
+Aquadon     =       Digong  +       Coatol
+Aquadon     =       Digong  +       Orligon     
 Octoraid    =       Octogon     +       ChopClown
-EvilArmor
-GateGuard
-Lionex  
+Octoraid    =       Octogon     +       EvilArmor
+Octoraid    =       Octogon     +       GateGuard
+Octoraid    =       Octogon     +       Lionex  
 Grakos  =       Any Water   +       Any Boss    
 Poseidon    =       Grakos  +       Mudou   
 Pumpoise    =       Any Water   +       Mommonja
-DuckKite
-MadPecker
-MadGoose
-CragDevil
-SpikyBoy
-BombCrag    
-Starfish    =       HoodSquid
-OctoReach
-Octogon
-KingSquid   +       Any Slime
+Pumpoise    =       Any Water   +       DuckKite
+Pumpoise    =       Any Water   +       MadPecker
+Pumpoise    =       Any Water   +       MadGoose
+Pumpoise    =       Any Water   +       CragDevil
+Pumpoise    =       Any Water   +       SpikyBoy
+Pumpoise    =       Any Water   +       BombCrag    
+Starfish    =       HoodSquid   +       Any Slime
+Starfish    =       OctoReach   +       Any Slime
+Starfish    =       Octogon   +       Any Slime
+Starfish    =       KingSquid   +       Any Slime
