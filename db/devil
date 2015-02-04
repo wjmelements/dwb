@@ -1,92 +1,140 @@
 Pixy    =       Any Devil   +       Any Slime   
-Arcdemon    =       AgDevil
-Grendal
-Gigantes    +       SpotKing
-KingSlime
-MetalKing
-Andreal
-GreatDrak
-Orochi
-Trumpeter
-Kingleo
-ZapBird
-WhipBird
-MetalDrak
-StoneMan    
+Arcdemon    =       AgDevil    +       SpotKing
+Arcdemon    =       AgDevil    +       KingSlime
+Arcdemon    =       AgDevil    +       MetalKing
+Arcdemon    =       AgDevil    +       Andreal
+Arcdemon    =       AgDevil    +       GreatDrak
+Arcdemon    =       AgDevil    +       Orochi
+Arcdemon    =       AgDevil    +       Trumpeter
+Arcdemon    =       AgDevil    +       Kingleo
+Arcdemon    =       AgDevil    +       ZapBird
+Arcdemon    =       AgDevil    +       WhipBird
+Arcdemon    =       AgDevil    +       MetalDrak
+Arcdemon    =       AgDevil    +       StoneMan    
+Arcdemon    =       Grendal    +       SpotKing
+Arcdemon    =       Grendal    +       KingSlime
+Arcdemon    =       Grendal    +       MetalKing
+Arcdemon    =       Grendal    +       Andreal
+Arcdemon    =       Grendal    +       GreatDrak
+Arcdemon    =       Grendal    +       Orochi
+Arcdemon    =       Grendal    +       Trumpeter
+Arcdemon    =       Grendal    +       Kingleo
+Arcdemon    =       Grendal    +       ZapBird
+Arcdemon    =       Grendal    +       WhipBird
+Arcdemon    =       Grendal    +       MetalDrak
+Arcdemon    =       Grendal    +       StoneMan    
+Arcdemon    =       Gigantes    +       SpotKing
+Arcdemon    =       Gigantes    +       KingSlime
+Arcdemon    =       Gigantes    +       MetalKing
+Arcdemon    =       Gigantes    +       Andreal
+Arcdemon    =       Gigantes    +       GreatDrak
+Arcdemon    =       Gigantes    +       Orochi
+Arcdemon    =       Gigantes    +       Trumpeter
+Arcdemon    =       Gigantes    +       Kingleo
+Arcdemon    =       Gigantes    +       ZapBird
+Arcdemon    =       Gigantes    +       WhipBird
+Arcdemon    =       Gigantes    +       MetalDrak
+Arcdemon    =       Gigantes    +       StoneMan    
 Arcdemon    =       GateGuard   +       Any Zombie  
 Arcdemon    =       Ogre    +       Any Dragon  
 Arcdemon    =       Any Devil   +       Any Boss    
 Agdevil     =       SkulRider
-Evilbeast
-Gremlin
-MedusaEye   +       Any Dragon  
+Agdevil     =       Evilbeast   +       Any Dragon  
+Agdevil     =       Gremlin   +       Any Dragon  
+Agdevil     =       MedusaEye   +       Any Dragon  
 Demonite    =       Any Devil   +       Any Bird    
 Darkeye     =       Any Devil   +       Any Plant   
 Eyeball     =       Any Devil   +       Any Bug     
 Skulrider   =       Any Devil   +       Any Zombie  
 Evilbeast   =       Any Devil   +       Any Material    
 Bubblemon   =       Any Devil   +       Any Water   
-1EyeClown   =       Pixy
-Demonite
-EyeBall     +       Any Slime   
+1EyeClown   =       Pixy     +       Any Slime   
+1EyeClown   =       Demonite     +       Any Slime   
+1EyeClown   =       EyeBall     +       Any Slime   
 Gremlin     =       Any Devil   +       Any Beast   
-Medusaeye   =       MedusaEye
-1EyeClown
-Gremlin     +       Any Zombie  
+MedusaEye   =       MedusaEye     +       Any Zombie  
+MedusaEye   =       1EyeClown     +       Any Zombie  
+MedusaEye   =       Gremlin     +       Any Zombie  
 Medusaeye   =       Any Devil   +       Any Dragon  
 Lionex  =       ArcDemon    +       Any Zombie  
 Lionex  =       Any Devil   +       LizardMan   
 Goathorn    =       ArcDemon    +       Any Beast   
 Goathorn    =       Any Devil   +       Darkhorn    
 Orc     =       Any Devil   +       BeanMan     
-Ogre    =       AgDevil
-Grendal
-Gigantes    +       GulpBeast
-Unicorn
-Digster
-Roboster    
+Ogre    =       AgDevil   +       GulpBeast
+Ogre    =       AgDevil   +       Unicorn
+Ogre    =       AgDevil   +       Digster
+Ogre    =       AgDevil   +       Roboster    
+Ogre    =       Grendal   +       GulpBeast
+Ogre    =       Grendal   +       Unicorn
+Ogre    =       Grendal   +       Digster
+Ogre    =       Grendal   +       Roboster    
+Ogre    =       Gigantes   +       GulpBeast
+Ogre    =       Gigantes   +       Unicorn
+Ogre    =       Gigantes   +       Digster
+Ogre    =       Gigantes   +       Roboster    
 Ogre    =       GateGuard   +       Any Dragon  
 Ogre    =       Any Devil   +       HammerMan   
-Gateguard   =       AgDevil
-Grendal
-Gigantes    +       SlimeBorg
-Swordgon
-Coatol
-MistyWing
-MadCondor
-Rosevine
-GiantMoth
-Skullgon
-DeadNoble
-WhiteKing
-AxeShark    
+Gateguard   =       AgDevil    +       SlimeBorg
+Gateguard   =       AgDevil    +       Swordgon
+Gateguard   =       AgDevil    +       Coatol
+Gateguard   =       AgDevil    +       MistyWing
+Gateguard   =       AgDevil    +       MadCondor
+Gateguard   =       AgDevil    +       Rosevine
+Gateguard   =       AgDevil    +       GiantMoth
+Gateguard   =       AgDevil    +       Skullgon
+Gateguard   =       AgDevil    +       DeadNoble
+Gateguard   =       AgDevil    +       WhiteKing
+Gateguard   =       AgDevil    +       AxeShark    
+Gateguard   =       Grendal    +       SlimeBorg
+Gateguard   =       Grendal    +       Swordgon
+Gateguard   =       Grendal    +       Coatol
+Gateguard   =       Grendal    +       MistyWing
+Gateguard   =       Grendal    +       MadCondor
+Gateguard   =       Grendal    +       Rosevine
+Gateguard   =       Grendal    +       GiantMoth
+Gateguard   =       Grendal    +       Skullgon
+Gateguard   =       Grendal    +       DeadNoble
+Gateguard   =       Grendal    +       WhiteKing
+Gateguard   =       Grendal    +       AxeShark    
+Gateguard   =       Gigantes    +       SlimeBorg
+Gateguard   =       Gigantes    +       Swordgon
+Gateguard   =       Gigantes    +       Coatol
+Gateguard   =       Gigantes    +       MistyWing
+Gateguard   =       Gigantes    +       MadCondor
+Gateguard   =       Gigantes    +       Rosevine
+Gateguard   =       Gigantes    +       GiantMoth
+Gateguard   =       Gigantes    +       Skullgon
+Gateguard   =       Gigantes    +       DeadNoble
+Gateguard   =       Gigantes    +       WhiteKing
+Gateguard   =       Gigantes    +       AxeShark    
 Gateguard   =       Demonite    +       Demonite    
 Gateguard   =       Ogre    +       Any Zombie  
 Chopclown   =       1EyeClown   +       1EyeClown   
 Bosstroll   =       Ogre    +       StoneMan
-Balzak
-WalrusMan   
+Bosstroll   =       Ogre    +       Balzak
+Bosstroll   =       Ogre    +       WalrusMan   
 Bosstroll   =       1EyeClown   +       GreatDrak   
 Bosstroll   =       GoatHorn    +       Any Beast   
-Grendal     =       SkulRider
-EvilBeast
-Gremlin
-MedusaEye   +       Any Beast   
+Grendal     =       SkulRider   +       Any Beast   
+Grendal     =       EvilBeast   +       Any Beast   
+Grendal     =       Gremlin   +       Any Beast   
+Grendal     =       MedusaEye   +       Any Beast   
 Grendal     =       Any Devil   +       Beastnite   
 Akubar  =       ArcDemon    +       GateGuard   
 Akubar  =       Grendal     +       Grendal     
 Madknight   =       Any Devil   +       RogueNite   
 Evilwell    =       BossTroll   +       IceMan  
 Evilwell    =       Ogre    +       Lavaman     
-Gigantes    =       SkulRider
-EvilBeast   +       Any Zombie  
+Gigantes    =       SkulRider   +       Any Zombie
+Gigantes    =       EvilBeast   +       Any Zombie  
 Gigantes    =       Any Devil   +       BigEye  
 Centasaur   =       ArcDemon    +       Any Dragon  
-Centasaur   =       Ogre
-GateGuard   +       Any Beast   
-Evilarmor   =       ArcDemon
-Ogre
-GateGuard   +       Any Material    
+Centasaur   =       Ogre   +       Any Beast   
+Centasaur   =       GateGuard   +       Any Beast   
+Evilarmor   =       ArcDemon   +       Any Material    
+Evilarmor   =       Ogre   +       Any Material    
+Evilarmor   =       GateGuard   +       Any Material    
 Evilarmor   =       Any Devil   +       Armorpede   
 Jamirus     =       Akubar  +       RainHawk    
 Jamirus     =       RainHawk    +       Akubar  

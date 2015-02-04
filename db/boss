@@ -12,7 +12,7 @@ Asurazoma   =       Zoma    +       PsychoPiz
 Pizzaro     =       Durran  +       Divinegon   
 Psychopiz   =       Pizzaro     +       Esterk  
 Esterk  =       Pizzaro     +       Gorago
-Kingleo     
+Esterk  =       Pizzaro     +       Kingleo     
 Mirudraas   =       Esterk  +       GoldSlime   
 Mirudraas (Transformed)     =       Mirudraas   +       Orligon     
 Mudou   =       Baramos     +       Gorago  
