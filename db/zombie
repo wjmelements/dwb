@@ -1,20 +1,20 @@
 Spooky  =       Any Zombie  +       Any Slime   
-Skullgon    =       Skullgon
-DeadNoble
-WhiteKing
-BoneSlave
-Skeletor    +       Any Dragon  
+Skullgon    =       Skullgon    +       Any Dragon  
+Skullgon    =       DeadNoble    +       Any Dragon  
+Skullgon    =       WhiteKing    +       Any Dragon  
+Skullgon    =       BoneSlave    +       Any Dragon  
+Skullgon    =       Skeletor    +       Any Dragon  
 Skullgon    =       Any Zombie  +       Swordgon
-Rayburn
-Andreal
-GreatDrak
-Orochi
-BattleRex
-Divinegon   
+Skullgon    =       Any Zombie  +       Rayburn
+Skullgon    =       Any Zombie  +       Andreal
+Skullgon    =       Any Zombie  +       GreatDrak
+Skullgon    =       Any Zombie  +       Orochi
+Skullgon    =       Any Zombie  +       BattleRex
+Skullgon    =       Any Zombie  +       Divinegon   
 Skullgon    =       Any Dragon  +       Skullgon
-DeadNoble
-WhiteKing
-Servant     
+Skullgon    =       Any Dragon  +       DeadNoble
+Skullgon    =       Any Dragon  +       WhiteKing
+Skullgon    =       Any Dragon  +       Servant     
 Putrepup    =       Any Zombie  +       Any Beast   
 Rotraven    =       Any Zombie  +       Any Bird    
 Mummy   =       Any Zombie  +       Any Plant   
@@ -24,29 +24,29 @@ Shadow  =       Any Zombie  +       Any Material
 Skulpent    =       Any Zombie  +       Any Water   
 Hork    =       Spooky  +       Any Beast   
 Mudron  =       Any Zombie  +       BoxSlime
-FangSlime
-Tonguella
-Yeti
-FunkyBird
-MadPlant
-DanceVegi
-GiantSlug
-Lipsy
-Droll   
-Nitewhip    =       DarkCrab
-MadSpirit   +       Any Devil   
+Mudron  =       Any Zombie  +       FangSlime
+Mudron  =       Any Zombie  +       Tonguella
+Mudron  =       Any Zombie  +       Yeti
+Mudron  =       Any Zombie  +       FunkyBird
+Mudron  =       Any Zombie  +       MadPlant
+Mudron  =       Any Zombie  +       DanceVegi
+Mudron  =       Any Zombie  +       GiantSlug
+Mudron  =       Any Zombie  +       Lipsy
+Mudron  =       Any Zombie  +       Droll   
+Nitewhip    =       DarkCrab   +       Any Devil   
+Nitewhip    =       MadSpirit   +       Any Devil   
 Nitewhip    =       Any Zombie  +       MistyWing   
-Madspirit   =       Skullgon
-DeadNite
-Mudron
-DeadNoble
-BoneSlave
-Skeletor    +       Any Bird    
+Madspirit   =       Skullgon    +       Any Bird    
+Madspirit   =       DeadNite    +       Any Bird    
+Madspirit   =       Mudron    +       Any Bird    
+Madspirit   =       DeadNoble    +       Any Bird    
+Madspirit   =       BoneSlave    +       Any Bird    
+Madspirit   =       Skeletor    +       Any Bird    
 Madspirit   =       Any Zombie  +       Any Dragon  
 Windmerge   =       RotRaven    +       Any Bird    
 Windmerge   =       Any Zombie  +       WindBeast   
-Reaper  =       Spooky
-Hork    +       Any Devil   
+Reaper  =       Spooky    +       Any Devil
+Reaper  =       Hork    +       Any Devil   
 Reaper  =       Any Zombie  +       WeedBug     
 Inverzon    =       Hork    +       Hork    
 Foxfire     =       NiteWhip    +       Any Beast   
@@ -59,12 +59,12 @@ Lionex
 GateGuard
 MetalDrak
 Roboster    
-Deadnoble   =       Skullgon
-DeadNite
-Mudron
-DeadNoble
-BoneSlave
-Skeletor    +       CopyCat     
+Deadnoble   =       Skullgon    +       CopyCat     
+Deadnoble   =       DeadNite    +       CopyCat     
+Deadnoble   =       Mudron    +       CopyCat     
+Deadnoble   =       DeadNoble    +       CopyCat     
+Deadnoble   =       BoneSlave    +       CopyCat     
+Deadnoble   =       Skeletor    +       CopyCat     
 Deadnoble   =       DeadNite    +       DeadNite    
 Whiteking   =       Skullgon
 DeadNoble
