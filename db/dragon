@@ -1,0 +1,91 @@
+Dragonkid   =       Any Dragon  +       Any Slime   
+Tortragon   =       Any Dragon  +       Any Beast   
+Pteranod    =       Any Dragon  +       Any Bird    
+Gasgon  =       Any Dragon  +       Any Plant   
+Fairydrak   =       Any Dragon  +       Any Bug     
+Lizardman   =       Any Dragon  +       Any Devil   
+Poisongon   =       Any Dragon  +       Any Zombie  
+Swordgon    =       Any Dragon  +       Any Material    
+Drygon  =       Any Dragon  +       Any Water   
+Dragon  =       DragonKid   +       DragonKid   
+Minidrak    =       Dragon  +       Picky   
+Maddragon   =       Gasgon  +       Any Beast   
+Maddragon   =       Any Dragon  +       GulpBeast   
+Rayburn     =       LizardMan   +       WingSlime
+Trumpeter
+MadCat
+FaceTree
+Lionex
+GoatHorn
+GateGuard
+Giagantes   
+Rayburn     =       Any Dragon  +       MadCondor   
+Chamelgon   =       Any Dragon  +       Voodoll     
+Lizardfly   =       Any Dragon  +       GoHopper    
+Andreal     =       Gasgon
+MadDragon
+BattleRex
+SkyDragon   +       Goategon
+Trumpeter
+MadCondor
+WhipBird
+FunkyBird
+ArcDemon
+Lionex
+GoatHorn
+Ogre
+Akubar
+DeadNoble
+Golem   
+Andreal     =       Any Dragon  +       Gulpple     
+Kingcobra   =       Any Dragon  +       Babble  
+Snakebat    =       Any Dragon  +       CatFly  
+Snakebat    =       KingCobra   +       Dracky  
+Spikerous   =       Any Dragon  +       Armycrab
+Digster     
+GreatDrak   =       Any Dragon  +       SpotKing
+KingSlime
+MetalKing
+BattleRex
+Unicorn
+ZapBird
+WhipBird
+Gigantes
+Centasaur   
+GreatDrak   =       DragonKid*  +       DragonKid*  *Monster created must be of +4 or higher to succeed
+GreatDrak   =       Dragon*     +       Dragon*     *Monster created must be of +4 or higher to succeed
+Crestpent   =       Any Dragon  +       BigRoost    
+Wingsnake   =       Crestpent   +       Crestpent   
+Coatol  =       Pteranod
+Gasgon
+LizardMan
+BattleRex
+Vampirus
+SkyDragon   +       Darkhorn
+MadKnight
+CopyCat
+StoneMan    
+Coatol  =       WingSnake   +       WingSnake   
+Orochi  =       Andreal
+GreatDrak   +       MedusaEye   
+Orochi  =       Any Dragon  +       Any Boss    
+Battlerex   =       Any Dragon  +       Kingleo
+Lionex
+Ogre
+MadKnight
+EvilArmor   
+Skydragon   =       Any Dragon  +       Phoenix     
+Serpentia   =       GreatDrak   +       Lionex
+Skeletor
+Octoraid    
+Divinegon   =       SkyDragon   +       Orochi
+Serpentia   
+Orligon     =       Divinegon   +       GigaDraco
+GoldGolem   
+Gigadraco   =       Andreal
+BattleRex
+GreatDrak
+SkyDragon   +       BossTroll
+Gigantes    
+Vampirus    =       Any Dragon  +       MadGoose    
+Vampirus    =       Pteranod    +       Pteranod

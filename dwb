@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ "$1" = "help" ] || [ -z "$1" ];
+    then
+        echo "usage: dwb <monster>";
+        exit
+fi
+grep -RHIn "$*"

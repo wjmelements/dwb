@@ -1,0 +1,48 @@
+Giantslug   =       Any Bug     +       Any Slime   
+Catapilla   =       Any Bug     +       Any Dragon  
+Gophecada   =       Any Bug     +       Any Beast   
+Butterfly   =       Any Bug     +       Any Bird    
+Weedbug     =       Any Bug     +       Any Plant   
+Giantworm   =       Any Bug     +       Any Devil   
+Lipsy   =       Any Bug     +       Any Zombie  
+Stagbug     =       Any Bug     +       Any Material    
+Pyuro   =       Any Bug     +       Any Water   
+Armyant     =       GiantSlug   +       Any Slime   
+Gohopper    =       ?????   +       ?????   Cannot be bred by normal means, but can be captured in the wild.
+Taileater   =       WeedBug     +       Any Plant   
+Taileater   =       Any Bug     +       FloraMan    
+Armorpede   =       GiantWorm   +       Any Material    
+Armorpede   =       Droll   +       Any Dragon  
+Armorpede   =       Any Bug     +       IronTurt    
+Eyeder  =       Catapila    +       Any Beast   
+Eyeder  =       Any Bug     +       Gamanian    
+Giantmoth   =       ButterFly   +       Any Devil   
+Giantmoth   =       Any Bug     +       Saccer  
+Droll   =       ButterFly
+TailEater
+Eyeder  +       ButterFly
+TailEater
+Eyeder  
+Droll   =       Lipsy   +       Any Slime   
+Droll   =       Any Bug     +       Spooky  
+Armycrab    =       Any Bug     +       DarkCrab    
+Armycrab    =       Any Bug     +       Cancerman   
+Madhornet   =       Eyeder
+Droll
+Pyuro   +       Any Zombie  
+Madhornet   =       Any Bug     +       FairyRat    
+Belzebub    =       MadHornet   +       GoHopper
+Any Zombie  
+Belzebub    =       MultiEyes   +       ButterFly
+Pyuro   
+Warmantis   =       Sickler     +       Any Devil   
+Hornbeet    =       StagBug     +       StagBug     
+Hornbeet    =       Armorpede   +       Any Devil   
+Sickler     =       Any Bug     +       1EyeClown
+Reaper  
+Sickler     =       WarMantis   +       Any Slime   
+Armorpion   =       HornBeet    +       Hornbeet    
+Digster     =       Any Bug     +       Any Boss    
+Skularach   =       Armorpion   +       WhiteKing   
+MultiEyes   =       TailEater   +       Any Devil   
+MultiEyes   =       Catapila    +       Catapila

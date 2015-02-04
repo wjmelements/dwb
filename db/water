@@ -1,0 +1,67 @@
+Petiteel    =       Any Water   +       Any Slime   
+Moray   =       Any Water   +       Any Dragon  
+WalrusMan   =       Any Water   +       Any Beast   
+RayGigas    =       Any Water   +       Any Bird    
+Anemon  =       Any Water   +       Any Plant   
+Aquarella   =       Any Water   +       Any Bug     
+Merman  =       Any Water   +       Any Devil   
+Octokid     =       Any Water   +       Any Material    
+PutreFish   =       Any Water   +       Any Zombie  
+Octoreach   =       Petiteel    +       Any Beast   
+Angleron    =       Petiteel    +       Any Material    
+FishRider   =       Angleron    +       Pixy
+Demonite
+SkulRider
+Gremlin     
+RushFish    =       Angleron    +       Gulpbeast
+Droll
+Any Dragon  
+Gamanian    =       Aquarella   +       DarkEye
+MedusaEye
+Bug     
+Clawster    =       Gamanian    +       ArmyCrab
+Any Devil   
+CancerMan   =       Clawster    +       Clawster
+Any Devil   
+RogueWave   =       Any Water   +       JewelBag    
+Scallopa    =       RogueWave   +       Mimic
+Any Devil   
+SeaHorse    =       Petiteel    +       Any Dragon
+Any Devil   
+HoodSquid   =       CancerMan   +       WhaleMage
+EvilWand    
+MerTiger    =       Merman  +       GulpBeast
+MadCat  
+AxeShark    =       CancerMan   +       BattleRex
+ArcDemon    
+Octogon     =       Octoreach   +       Octoreach   *Monster created must be of +5 or higher to succeed
+KingSquid   =       Octogon     +       Octogon
+Any Boss    *Monster created must be of +5 or higher to succeed
+Digong  =       RushFish    +       Spikerous
+RogueWave
+MadGoose
+Gigantes
+Golem   
+WhaleMage   =       HoodSquid   +       1EyeClown
+Reaper
+RushFish    
+Aquadon     =       Digong  +       GreatDrak
+Coatol
+Orligon     
+Octoraid    =       Octogon     +       ChopClown
+EvilArmor
+GateGuard
+Lionex  
+Grakos  =       Any Water   +       Any Boss    
+Poseidon    =       Grakos  +       Mudou   
+Pumpoise    =       Any Water   +       Mommonja
+DuckKite
+MadPecker
+MadGoose
+CragDevil
+SpikyBoy
+BombCrag    
+Starfish    =       HoodSquid
+OctoReach
+Octogon
+KingSquid   +       Any Slime

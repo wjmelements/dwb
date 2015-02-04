@@ -1,0 +1,97 @@
+Jewelbag    =       Any Material    +       Any Slime   
+EVILWAND    =       Any Material    +       Any Dragon  
+Madcandle   =       Any Material    +       Any Beast   
+Coilbird    =       Any Material    +       Any Bird    
+Facer   =       Any Material    +       Any Plant   
+Spikyboy    =       Any Material    +       Any Bug     
+Madmirror   =       Any Material    +       Any Devil   
+Roguenite   =       Any Material    +       Any Zombie  
+Puppetor    =       Any Material    +       Gremlin     
+Goopi   =       JewelBag    +       Any Material    
+Voodoll     =       Golem
+StoneMan    +       DrakSlime
+Snaily
+SlimeNite
+RockSlime   
+Voodoll     =       Any Material    +       Lipsy   
+Voodoll     =       Puppetor    +       Any Devil   
+Metaldrak   =       Andreal
+Spikerous
+GreatDrak   +       SlimeBorg
+KingSlime
+Digster
+Skullgon
+Roboster
+Golem
+StoneMan    
+Metaldrak   =       MetalDrak   +       Any Dragon  
+Metaldrak   =       Any Material    +       Andreal     
+Balzak  =       LavaMan
+IceMan  +       Any Devil   
+Balzak  =       Any Material    +       Any Boss    
+Sabreman    =       EvilWand
+Voodoll
+Golem
+StoneMan    +       LandOwl
+MadGoose
+Phoenix
+FunkyBird   
+Sabreman    =       Any Material    +       GiantWorm   
+Curselamp   =       Roboster    +       Any Bird    
+Curselamp   =       Any Material    +       WingTree    
+Brushead    =       Any Material    +       Any Water   
+Roboster    =       SabreMan    +       SlimeBorg
+GreatDrak
+Unicorn
+Ogre
+Grendal
+EvilArmor
+DeadNoble
+Skeletor    
+Roboster    =       Any Material    +       GulpBeast
+Grizzly
+Trumpeter
+Kingleo
+SkulRider   
+Roboster2   =       Roboster*   +       Roboster    *Monster created must be of +5 or higher to succeed
+Evilpot     =       Gismo   +       Any Devil   
+Evilpot     =       Any Material    +       Snaily  
+Gismo   =       MadCandle
+MadMirror
+Goopi   +       DrakSlime
+Wyvern
+MistyWing
+Phoenix
+FireWeed
+EvilSeed    
+Lavaman     =       MetalDrak   +       Orochi
+Kingleo
+ZapBird
+ArcDemon
+Centasaur   
+Iceman  =       MetalDrak   +       Skullgon
+WhiteKing   
+Iceman  =       Roboster    +       Kingleo     
+Mimic   =       Roboster    +       Any Zombie  
+Mimic   =       Any Material    +       BoxSlime    
+Exaucers    =       Any Material    +       Dracky  
+Muddoll     =       Goopi   +       Goopi   
+Golem   =       MudDoll     +       MudDoll     
+Stoneman    =       Golem   +       Golem   
+Stoneman    =       Any Material    +       HornBeet
+Digster     
+Bombcrag    =       SpikyBoy    +       SpikyBoy    
+Bombcrag    =       Roboster    +       Any Bug     
+Goldgolem   =       IceMan  +       LavaMan     
+Darkmate    =       GoldGolem   +       MetalKing   
+Protomech   =       Any Material    +       EvilArmor   
+Protomech   =       Roboster    +       Any Slime   
+Protomech   =       RogueNite   +       Any Devil   
+Cloudking   =       Gismo   +       KingSlime
+SpotKing
+SkyDragon
+Kingleo
+WhaleMage
+KingSquid
+LampGenie
+WhiteKing   

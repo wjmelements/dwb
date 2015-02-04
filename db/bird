@@ -1,0 +1,77 @@
+Picky   =       Any Bird    +       Any Slime   
+Wyvern  =       Any Bird    +       Any Dragon  
+Bullbird    =       Any Bird    +       Any Beast   
+Florjay     =       Any Bird    +       Any Plant   
+Duckkite    =       Any Bird    +       Any Bug     
+Madpecker   =       Any Bird    +       Any Devil   
+Madraven    =       Any Bird    +       Any Zombie  
+Mistywing   =       Any Bird    +       Any Material    
+Aquahawk    =       Any Bird    +       Any Water   
+Dracky  =       Picky   +       Any Slime   
+Kitehawk    =       Any Bird    +       Facer   
+Kitehawk    =       DuckNite    +       Any Material    
+Bigroost    =       ?????   +       ?????   Cannot be bred by normal means, but can be captured in the wild.
+Stubbird    =       BIRD*   +       RockSlime   
+Landowl     =       BullBird    +       Any Devil   
+Madgoose    =       Wyvern
+LandOwl
+MadCondor
+Phoenix     +       Any Dragon
+Any Zombie  
+Madgoose    =       Any Bird    +       Droll   
+Madcondor   =       LandOwl     +       Any Devil   
+Madcondor   =       Any Bird    +       CoilBird    
+Emyu    =       KiteHawk    +       Any Beast   
+Emyu    =       Madcondor   +       Madpecker   
+Emyu    =       Madpecker   +       DarkEye
+BigEye  
+Blizzardy   =       Any Bird    +       Metaly
+Metabble
+SuperTen
+Yeti
+Goategon
+Trumpeter
+Skullgon
+DeadNoble
+WhiteKing
+Skeletor
+Servant
+IceMan  
+Phoenix     =       Any Bird    +       DrakSlime
+GulpBeast
+IronTurt
+Grizzly
+ArcDemon
+CopyCat
+Gismo
+LavaMan     
+Phoenix     =       AquaHawk    +       Gismo   
+Zapbird     =       MadCondor
+Phoenix
+WhipBird    +       Gismo   
+Zapbird     =       Any Bird    +       Any Boss    
+Garudian    =       Blizzardy
+Phoenix
+Zapbird     +       Lionex  
+Garudian    =       Funkybird   +       Jamirus     
+Whipbird    =       LandOwl
+MadGoose
+MadCondor
+Blizzardy
+ZapBird     +       RockSlime
+SlimeBorg
+Digster
+MetalDrak
+Golem
+StoneMan    
+Whipbird    =       Any Bird    +       Rayburn     
+Funkybird   =       Any Bird    +       DanceVegi
+TropicGel   
+Rainhawk    =       Blizzardy   +       Phoenix     
+Azurile     =       RainHawk    +       Any Boss    
+Azurile     =       Shantak     +       GoldGolem   
+Shantak     =       WhipBird    +       GreatDrak
+Jamirus     
+Cragdevil   =       BigRoost
+MadGoose
+Emyu    +       Any Beast

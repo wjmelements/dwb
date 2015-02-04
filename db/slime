@@ -1,0 +1,95 @@
+Drakslime   =       Any Slime   +       Any Dragon  
+Spotslime   =       Any Slime   +       Any Beast   
+Wingslime   =       Any Slime   +       Any Bird    
+Treeslime   =       Any Slime   +       Any Plant   
+Snaily  =       Any Slime   +       Any Bug     
+Slimenite   =       Any Slime   +       Any Devil   
+Babble  =       Any Slime   +       Poisongon
+GiantMoth
+Any Zombie  
+Boxslime    =       Any Slime   +       Any Material    
+Pearlgel    =       Any Slime   +       Any Water   
+Slime   =       Slime   +       Slime   You can breed two weaker slimes to make one of higher power.
+Healer  =       Any Slime   +       PillowRat
+MadPlant
+CopyCat
+FunkyBird   
+Fangslime   =       Any Slime   +       Almiraj
+GulpBeast
+Trumpeter
+Kingleo
+Darkhorn
+MadCat  
+Rockslime   =       Any Slime   +       DeadNite
+Golem
+StoneMan
+BombCrag    
+Slimeborg   =       DrakSlime
+SlimeNite
+RockSlime
+Metabble    +       Swordgon
+Spikerous
+GreatDrak
+BattleRex
+SkyDragon   
+Slimeborg   =       Any Slime   +       Roboster    
+Slabbit     =       Any Slime   +       Skullroo    
+Kingslime   =       SpotKing    +       GreatDrak
+BattleRex
+Divinegon
+Unicorn
+Kingleo
+MadCondor
+ZapBird
+WhipBird
+BossTroll
+Gigantes
+Centasaur
+DeadNoble
+WhiteKing   
+Kingslime   =       Any Slime   +       Any Boss    
+Metaly  =       Any Slime   +       MetalDrak   
+Metabble    =       Metaly  +       Metaly
+WonderEgg   
+Spotking    =       KingSlime
+MetalKing   +       GreatDrak
+BattleRex
+Divinegon
+Unicorn
+Kingleo
+MadCondor
+ZapBird
+WhipBird
+Gigantes
+Centasaur
+DeadNoble
+WhiteKing   
+Spotking    =       SpotSlime*  +       SpotSlime*  *Monster created must be of +4 or higher to succeed
+Tropicgel   =       Slime   +       PillowRat
+Mommonja    
+Tropicgel   =       TreeSlime   +       Any Beast   
+Tropicgel   =       WonderEgg   +       Any Plant   
+Mimeslime   =       Healer  +       EvilWand
+1EyeClown
+TreeBoy     
+Mimeslime   =       WonderEgg   +       Any Devil   
+Haloslime   =       MimeSlime   +       Any Zombie
+Pixy
+StubBird    
+Haloslime   =       Slime   +       CopyCat     
+Haloslime   =       WonderEgg   +       Any Bird    
+Metalking   =       SpotKing
+KingSlime   +       MetalDrak   
+Metalking   =       Metabble    +       Metabble    
+Metalking   =       WonderEgg   +       Metabble    
+Goldslime   =       SpotKing
+KingSlime
+MetalKing   +       GoldGolem   
+Goldslime   =       MetalKing   +       MetalKing   
+Goldslime   =       WonderEgg   +       MetalKing   
+Granslime   =       GoldSlime   +       DarkMate
+GoldSlime
+Deathmore   
+Granslime   =       WonderEgg   +       GoldSlime   
+Wonderegg   =       Slime   +       BigRoost    Must be done on Multiplayer Breeding
+King Slime  =       Slime +5    +       Slime   
