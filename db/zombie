@@ -108,9 +108,13 @@ Servant     =       WhiteKing   +       Any Devil
 Lazamanus   =       WhiteKing   +       Dracolord   
 Copycat     =       ?????   +       ?????   Cannot be bred thru normal means, but can be caught in the wild.
 Pompombom   =       Copycat     +       Droll
-Gasgon  
-Niterich    =       Mummy
-DeadNoble
-Skeletor    +       Octoraid
-Roboster2
-Serpentia
+Pompombom   =       Copycat     +       Gasgon  
+Niterich    =       Mummy    +       Octoraid
+Niterich    =       DeadNoble    +       Octoraid
+Niterich    =       Skeletor    +       Octoraid
+Niterich    =       Mummy    +       Roboster2
+Niterich    =       Skeletor    +       Roboster2
+Niterich    =       DeadNoble    +       Roboster2
+Niterich    =       Mummy    +       Serpentia
+Niterich    =       Skeletor    +       Serpentia
+Niterich    =       DeadNoble    +       Serpentia
