@@ -1,0 +1,24 @@
+#!/usr/bin/perl
+@first = ();
+@second = ();
+while (<>) {
+    chomp;
+    foreach $_( split) {
+        if (/\+/) {
+            $plus = 1;
+        } elsif (/=/) {
+            $component = 1;
+        } elsif ($plus) {
+            push @second, $_;
+        } elsif ($component) {
+            push @first, $_;
+        } else {
+            $result = $_;
+        }
+    }
+}
+foreach $one (@first) {
+    foreach $two (@second) {
+        print "$result = $one\t +  $two\n";
+    }
+}
