@@ -1,9 +1,22 @@
 #!/usr/bin/perl
-@first = ();
-@second = ();
+sub put {
+    foreach $one (@first) {
+        foreach $two (@second) {
+            print "$result = $one + $two\n";
+        }
+    }
+    @first = ();
+    @second = ();
+    $plus = undef;
+    $component = undef;
+}
 while (<>) {
     chomp;
-    foreach $_( split) {
+    @words = split;
+    if ($#words gt 1 && $words[1] eq "=") {
+        put;
+    }
+    foreach (@words) {
         if (/\+/) {
             $plus = 1;
         } elsif (/=/) {
@@ -17,8 +30,4 @@ while (<>) {
         }
     }
 }
-foreach $one (@first) {
-    foreach $two (@second) {
-        print "$result = $one\t +  $two\n";
-    }
-}
+put;

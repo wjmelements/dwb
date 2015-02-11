@@ -1,133 +1,308 @@
-Tonguella   =       Any Beast   +       Any Slime   
-Almiraj     =       Any Beast   +       Any Dragon  
-Catfly  =       Any Beast   +       Any Bird    
-Pillowrat   =       Any Beast   +       Any Plant   
-Saccer  =       Any Beast   +       Any Bug     
-Gulpbeast   =       Tonguella
-Grizzly
-Yeti
-Unicorn
-WildApe
-Trumpeter   +       Digster
-Skullgon
-DeadNoble
-WhiteKing
-Skeletor    
-Gulpbeast   =       IronTurt
-Grizzly
-Yeti
-Unicorn
-Goategon
-WildApe     +       Roboster
-LavaMan
-IceMan
-Golem
-StoneMan    
-Gulpbeast   =       Grizzly
-Yeti
-Trumpeter
-BigEye  +       Any Dragon  
-Gulpbeast   =       Grizzly     +       Any Devil   
-Skullroo    =       Any Beast   +       Any Zombie  
-Windbeast   =       CatFly  +       Any Bird    
-Windbeast   =       Any Beast   +       Any Material    
-Beavern     =       Any Beast   +       Any Water   
-Trumpeter   =       WildApe     +       WildApe     
-Antbear     =       Saccer  +       Any Dragon  
-Superten    =       Tonguella
-GulpBeast   +       TreeSlime
-FangSlime
-FunkyBird
-MadPlant
-FaceTree
-Lipsy
-Demonite
-Gremlin
-CopyCat
-JewelBag
-Mimic   
-Superten    =       Any Beast   +       Mudron  
-Ironturt    =       Any Beast   +       Tortragon   
-Mommonja    =       Any Beast   +       DuckKite    
-Hammerman   =       Any Beast   +       Stubsuck    
-Grizzly     =       Any Beast   +       MetalDrak
-Roboster
-LavaMan
-IceMan
-Golem
-StoneMan
-Any Devil   
-Yeti    =       IronTurt
-Goategon
-WildApe
-MadCat  +       Pteranod
-Gasgon
-Swordgon
-MadDragon
-BattleRex
-SkyDragon   
-Yeti    =       Any Beast   +       Orc     
-Arrowdog    =       Any Beast   +       PutrePup    
-Noctoking   =       ArrowDog    +       Dracky
-Shadow  
-Beastnite   =       Any Beast   +       EvilArmor   
-Beastnite   =       CatMage     +       Any Devil   
-Beastnite   =       MadGopher   +       Dumbira     
-Madgopher   =       Any Beast   +       SabreMan    
-Fairyrat    =       Any Beast   +       LizardFly   
-Unicorn     =       Tonguella
-GulpBeast
-Grizzly
-Yeti
-Goategon
-WildApe
-Trumpeter   +       Any Slime   
-Beastnite   =       Any Beast   +       FangSlime   
-Goategon    =       Any Beast   +       DrakSlime
-LizardMan   
-Wildape     =       Almiraj     +       Any Dragon  
-Beastnite   =       Any Beast   +       MadPecker   
-Trumpeter   =       Tonguella
-GulpBeast
-Grizzly
-Yeti LandOwl
-MadCondor
-ZapBird
-WhipBird
-GulpBeast   +       MetalDrak
-Balzak
-LavaMan
-IceMan
-Golem
-StoneMan    
-Beastnite   =       WildApe     +       WildApe     
-Beastnite   =       SuperTen    +       Any Dragon  
-Kingleo     =       Trumpeter   +       Trumpeter
-MetalDrak
-Balzak
-GoldGolem   
-Beastnite   =       Roboster    +       GulpBeast
-SuperTen
-Unicorn
-Trumpeter
-Darkhorn
-MadCat  
-Darkhorn    =       Any Beast   +       Any Boss    
-Madcat  =       Any Beast   +       Dragon  
-BigEye  =       Any Beast   +       EyeBall     
-Gorago  =       Darkhorn    +       Any Boss
-Orochi  
-Catmage     =       CatFly  +       MimeSlime
-TreeBoy
-Sickler
-1EyeClown
-Reaper
-EvilWand    
-Dumbira     =       NoctoKing   +       Gigantes    
-Dumbira     =       SuperTen    +       Lizardman
-Beastnite
-Orc
-Bubblemon
-MerTiger
-Walrusman
-SabreMan
+Tonguella = Any + Any
+Tonguella = Any + Slime
+Tonguella = Beast + Any
+Tonguella = Beast + Slime
+Almiraj = Any + Any
+Almiraj = Any + Dragon
+Almiraj = Beast + Any
+Almiraj = Beast + Dragon
+Catfly = Any + Any
+Catfly = Any + Bird
+Catfly = Beast + Any
+Catfly = Beast + Bird
+Pillowrat = Any + Any
+Pillowrat = Any + Plant
+Pillowrat = Beast + Any
+Pillowrat = Beast + Plant
+Saccer = Any + Any
+Saccer = Any + Bug
+Saccer = Beast + Any
+Saccer = Beast + Bug
+Gulpbeast = Tonguella + Digster
+Gulpbeast = Tonguella + Skullgon
+Gulpbeast = Tonguella + DeadNoble
+Gulpbeast = Tonguella + WhiteKing
+Gulpbeast = Tonguella + Skeletor
+Gulpbeast = Grizzly + Digster
+Gulpbeast = Grizzly + Skullgon
+Gulpbeast = Grizzly + DeadNoble
+Gulpbeast = Grizzly + WhiteKing
+Gulpbeast = Grizzly + Skeletor
+Gulpbeast = Yeti + Digster
+Gulpbeast = Yeti + Skullgon
+Gulpbeast = Yeti + DeadNoble
+Gulpbeast = Yeti + WhiteKing
+Gulpbeast = Yeti + Skeletor
+Gulpbeast = Unicorn + Digster
+Gulpbeast = Unicorn + Skullgon
+Gulpbeast = Unicorn + DeadNoble
+Gulpbeast = Unicorn + WhiteKing
+Gulpbeast = Unicorn + Skeletor
+Gulpbeast = WildApe + Digster
+Gulpbeast = WildApe + Skullgon
+Gulpbeast = WildApe + DeadNoble
+Gulpbeast = WildApe + WhiteKing
+Gulpbeast = WildApe + Skeletor
+Gulpbeast = Trumpeter + Digster
+Gulpbeast = Trumpeter + Skullgon
+Gulpbeast = Trumpeter + DeadNoble
+Gulpbeast = Trumpeter + WhiteKing
+Gulpbeast = Trumpeter + Skeletor
+Gulpbeast = IronTurt + Roboster
+Gulpbeast = IronTurt + LavaMan
+Gulpbeast = IronTurt + IceMan
+Gulpbeast = IronTurt + Golem
+Gulpbeast = IronTurt + StoneMan
+Gulpbeast = Grizzly + Roboster
+Gulpbeast = Grizzly + LavaMan
+Gulpbeast = Grizzly + IceMan
+Gulpbeast = Grizzly + Golem
+Gulpbeast = Grizzly + StoneMan
+Gulpbeast = Yeti + Roboster
+Gulpbeast = Yeti + LavaMan
+Gulpbeast = Yeti + IceMan
+Gulpbeast = Yeti + Golem
+Gulpbeast = Yeti + StoneMan
+Gulpbeast = Unicorn + Roboster
+Gulpbeast = Unicorn + LavaMan
+Gulpbeast = Unicorn + IceMan
+Gulpbeast = Unicorn + Golem
+Gulpbeast = Unicorn + StoneMan
+Gulpbeast = Goategon + Roboster
+Gulpbeast = Goategon + LavaMan
+Gulpbeast = Goategon + IceMan
+Gulpbeast = Goategon + Golem
+Gulpbeast = Goategon + StoneMan
+Gulpbeast = WildApe + Roboster
+Gulpbeast = WildApe + LavaMan
+Gulpbeast = WildApe + IceMan
+Gulpbeast = WildApe + Golem
+Gulpbeast = WildApe + StoneMan
+Gulpbeast = Grizzly + Any
+Gulpbeast = Grizzly + Dragon
+Gulpbeast = Yeti + Any
+Gulpbeast = Yeti + Dragon
+Gulpbeast = Trumpeter + Any
+Gulpbeast = Trumpeter + Dragon
+Gulpbeast = BigEye + Any
+Gulpbeast = BigEye + Dragon
+Gulpbeast = Grizzly + Any
+Gulpbeast = Grizzly + Devil
+Skullroo = Any + Any
+Skullroo = Any + Zombie
+Skullroo = Beast + Any
+Skullroo = Beast + Zombie
+Windbeast = CatFly + Any
+Windbeast = CatFly + Bird
+Windbeast = Any + Any
+Windbeast = Any + Material
+Windbeast = Beast + Any
+Windbeast = Beast + Material
+Beavern = Any + Any
+Beavern = Any + Water
+Beavern = Beast + Any
+Beavern = Beast + Water
+Trumpeter = WildApe + WildApe
+Antbear = Saccer + Any
+Antbear = Saccer + Dragon
+Superten = Tonguella + TreeSlime
+Superten = Tonguella + FangSlime
+Superten = Tonguella + FunkyBird
+Superten = Tonguella + MadPlant
+Superten = Tonguella + FaceTree
+Superten = Tonguella + Lipsy
+Superten = Tonguella + Demonite
+Superten = Tonguella + Gremlin
+Superten = Tonguella + CopyCat
+Superten = Tonguella + JewelBag
+Superten = Tonguella + Mimic
+Superten = GulpBeast + TreeSlime
+Superten = GulpBeast + FangSlime
+Superten = GulpBeast + FunkyBird
+Superten = GulpBeast + MadPlant
+Superten = GulpBeast + FaceTree
+Superten = GulpBeast + Lipsy
+Superten = GulpBeast + Demonite
+Superten = GulpBeast + Gremlin
+Superten = GulpBeast + CopyCat
+Superten = GulpBeast + JewelBag
+Superten = GulpBeast + Mimic
+Superten = Any + Mudron
+Superten = Beast + Mudron
+Ironturt = Any + Tortragon
+Ironturt = Beast + Tortragon
+Mommonja = Any + DuckKite
+Mommonja = Beast + DuckKite
+Hammerman = Any + Stubsuck
+Hammerman = Beast + Stubsuck
+Grizzly = Any + MetalDrak
+Grizzly = Any + Roboster
+Grizzly = Any + LavaMan
+Grizzly = Any + IceMan
+Grizzly = Any + Golem
+Grizzly = Any + StoneMan
+Grizzly = Any + Any
+Grizzly = Any + Devil
+Grizzly = Beast + MetalDrak
+Grizzly = Beast + Roboster
+Grizzly = Beast + LavaMan
+Grizzly = Beast + IceMan
+Grizzly = Beast + Golem
+Grizzly = Beast + StoneMan
+Grizzly = Beast + Any
+Grizzly = Beast + Devil
+Yeti = IronTurt + Pteranod
+Yeti = IronTurt + Gasgon
+Yeti = IronTurt + Swordgon
+Yeti = IronTurt + MadDragon
+Yeti = IronTurt + BattleRex
+Yeti = IronTurt + SkyDragon
+Yeti = Goategon + Pteranod
+Yeti = Goategon + Gasgon
+Yeti = Goategon + Swordgon
+Yeti = Goategon + MadDragon
+Yeti = Goategon + BattleRex
+Yeti = Goategon + SkyDragon
+Yeti = WildApe + Pteranod
+Yeti = WildApe + Gasgon
+Yeti = WildApe + Swordgon
+Yeti = WildApe + MadDragon
+Yeti = WildApe + BattleRex
+Yeti = WildApe + SkyDragon
+Yeti = MadCat + Pteranod
+Yeti = MadCat + Gasgon
+Yeti = MadCat + Swordgon
+Yeti = MadCat + MadDragon
+Yeti = MadCat + BattleRex
+Yeti = MadCat + SkyDragon
+Yeti = Any + Orc
+Yeti = Beast + Orc
+Arrowdog = Any + PutrePup
+Arrowdog = Beast + PutrePup
+Noctoking = ArrowDog + Dracky
+Noctoking = ArrowDog + Shadow
+Beastnite = Any + EvilArmor
+Beastnite = Beast + EvilArmor
+Beastnite = CatMage + Any
+Beastnite = CatMage + Devil
+Beastnite = MadGopher + Dumbira
+Madgopher = Any + SabreMan
+Madgopher = Beast + SabreMan
+Fairyrat = Any + LizardFly
+Fairyrat = Beast + LizardFly
+Unicorn = Tonguella + Any
+Unicorn = Tonguella + Slime
+Unicorn = GulpBeast + Any
+Unicorn = GulpBeast + Slime
+Unicorn = Grizzly + Any
+Unicorn = Grizzly + Slime
+Unicorn = Yeti + Any
+Unicorn = Yeti + Slime
+Unicorn = Goategon + Any
+Unicorn = Goategon + Slime
+Unicorn = WildApe + Any
+Unicorn = WildApe + Slime
+Unicorn = Trumpeter + Any
+Unicorn = Trumpeter + Slime
+Beastnite = Any + FangSlime
+Beastnite = Beast + FangSlime
+Goategon = Any + DrakSlime
+Goategon = Any + LizardMan
+Goategon = Beast + DrakSlime
+Goategon = Beast + LizardMan
+Wildape = Almiraj + Any
+Wildape = Almiraj + Dragon
+Beastnite = Any + MadPecker
+Beastnite = Beast + MadPecker
+Trumpeter = Tonguella + MetalDrak
+Trumpeter = Tonguella + Balzak
+Trumpeter = Tonguella + LavaMan
+Trumpeter = Tonguella + IceMan
+Trumpeter = Tonguella + Golem
+Trumpeter = Tonguella + StoneMan
+Trumpeter = GulpBeast + MetalDrak
+Trumpeter = GulpBeast + Balzak
+Trumpeter = GulpBeast + LavaMan
+Trumpeter = GulpBeast + IceMan
+Trumpeter = GulpBeast + Golem
+Trumpeter = GulpBeast + StoneMan
+Trumpeter = Grizzly + MetalDrak
+Trumpeter = Grizzly + Balzak
+Trumpeter = Grizzly + LavaMan
+Trumpeter = Grizzly + IceMan
+Trumpeter = Grizzly + Golem
+Trumpeter = Grizzly + StoneMan
+Trumpeter = Yeti + MetalDrak
+Trumpeter = Yeti + Balzak
+Trumpeter = Yeti + LavaMan
+Trumpeter = Yeti + IceMan
+Trumpeter = Yeti + Golem
+Trumpeter = Yeti + StoneMan
+Trumpeter = LandOwl + MetalDrak
+Trumpeter = LandOwl + Balzak
+Trumpeter = LandOwl + LavaMan
+Trumpeter = LandOwl + IceMan
+Trumpeter = LandOwl + Golem
+Trumpeter = LandOwl + StoneMan
+Trumpeter = MadCondor + MetalDrak
+Trumpeter = MadCondor + Balzak
+Trumpeter = MadCondor + LavaMan
+Trumpeter = MadCondor + IceMan
+Trumpeter = MadCondor + Golem
+Trumpeter = MadCondor + StoneMan
+Trumpeter = ZapBird + MetalDrak
+Trumpeter = ZapBird + Balzak
+Trumpeter = ZapBird + LavaMan
+Trumpeter = ZapBird + IceMan
+Trumpeter = ZapBird + Golem
+Trumpeter = ZapBird + StoneMan
+Trumpeter = WhipBird + MetalDrak
+Trumpeter = WhipBird + Balzak
+Trumpeter = WhipBird + LavaMan
+Trumpeter = WhipBird + IceMan
+Trumpeter = WhipBird + Golem
+Trumpeter = WhipBird + StoneMan
+Trumpeter = GulpBeast + MetalDrak
+Trumpeter = GulpBeast + Balzak
+Trumpeter = GulpBeast + LavaMan
+Trumpeter = GulpBeast + IceMan
+Trumpeter = GulpBeast + Golem
+Trumpeter = GulpBeast + StoneMan
+Beastnite = WildApe + WildApe
+Beastnite = SuperTen + Any
+Beastnite = SuperTen + Dragon
+Kingleo = Trumpeter + Trumpeter
+Kingleo = Trumpeter + MetalDrak
+Kingleo = Trumpeter + Balzak
+Kingleo = Trumpeter + GoldGolem
+Beastnite = Roboster + GulpBeast
+Beastnite = Roboster + SuperTen
+Beastnite = Roboster + Unicorn
+Beastnite = Roboster + Trumpeter
+Beastnite = Roboster + Darkhorn
+Beastnite = Roboster + MadCat
+Darkhorn = Any + Any
+Darkhorn = Any + Boss
+Darkhorn = Beast + Any
+Darkhorn = Beast + Boss
+Madcat = Any + Dragon
+Madcat = Beast + Dragon
+BigEye = Any + EyeBall
+BigEye = Beast + EyeBall
+Gorago = Darkhorn + Any
+Gorago = Darkhorn + Boss
+Gorago = Darkhorn + Orochi
+Catmage = CatFly + MimeSlime
+Catmage = CatFly + TreeBoy
+Catmage = CatFly + Sickler
+Catmage = CatFly + 1EyeClown
+Catmage = CatFly + Reaper
+Catmage = CatFly + EvilWand
+Dumbira = NoctoKing + Gigantes
+Dumbira = SuperTen + Lizardman
+Dumbira = SuperTen + Beastnite
+Dumbira = SuperTen + Orc
+Dumbira = SuperTen + Bubblemon
+Dumbira = SuperTen + MerTiger
+Dumbira = SuperTen + Walrusman
+Dumbira = SuperTen + SabreMan
