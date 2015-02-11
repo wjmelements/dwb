@@ -37,8 +37,8 @@ MadGoose
 Phoenix
 FunkyBird   
 Sabreman    =       Any Material    +       GiantWorm   
-Curselamp   =       Roboster    +       Any Bird    
-Curselamp   =       Any Material    +       WingTree    
+CurseLamp   =       Roboster    +       Any Bird    
+CurseLamp   =       Any Material    +       WingTree    
 Brushead    =       Any Material    +       Any Water   
 Roboster    =       SabreMan    +       SlimeBorg
 GreatDrak

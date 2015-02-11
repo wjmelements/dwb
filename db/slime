@@ -5,25 +5,25 @@ Treeslime   =       Any Slime   +       Any Plant
 Snaily  =       Any Slime   +       Any Bug     
 Slimenite   =       Any Slime   +       Any Devil   
 Babble  =       Any Slime   +       Poisongon
-GiantMoth
-Any Zombie  
+Babble  =       Any Slime   +       GiantMoth
+Babble  =       Any Slime   +       Any Zombie  
 Boxslime    =       Any Slime   +       Any Material    
 Pearlgel    =       Any Slime   +       Any Water   
 Slime   =       Slime   +       Slime   You can breed two weaker slimes to make one of higher power.
 Healer  =       Any Slime   +       PillowRat
-MadPlant
-CopyCat
-FunkyBird   
+Healer  =       Any Slime   +       MadPlant
+Healer  =       Any Slime   +       CopyCat
+Healer  =       Any Slime   +       FunkyBird   
 Fangslime   =       Any Slime   +       Almiraj
-GulpBeast
-Trumpeter
-Kingleo
-Darkhorn
-MadCat  
+Fangslime   =       Any Slime   +       GulpBeast
+Fangslime   =       Any Slime   +       Trumpeter
+Fangslime   =       Any Slime   +       Kingleo
+Fangslime   =       Any Slime   +       Darkhorn
+Fangslime   =       Any Slime   +       MadCat  
 Rockslime   =       Any Slime   +       DeadNite
-Golem
-StoneMan
-BombCrag    
+Rockslime   =       Any Slime   +       Golem
+Rockslime   =       Any Slime   +       StoneMan
+Rockslime   =       Any Slime   +       BombCrag    
 Slimeborg   =       DrakSlime
 SlimeNite
 RockSlime
@@ -50,7 +50,7 @@ WhiteKing
 Kingslime   =       Any Slime   +       Any Boss    
 Metaly  =       Any Slime   +       MetalDrak   
 Metabble    =       Metaly  +       Metaly
-WonderEgg   
+Metabble    =       Metaly  +       WonderEgg   
 Spotking    =       KingSlime
 MetalKing   +       GreatDrak
 BattleRex
@@ -66,30 +66,30 @@ DeadNoble
 WhiteKing   
 Spotking    =       SpotSlime*  +       SpotSlime*  *Monster created must be of +4 or higher to succeed
 Tropicgel   =       Slime   +       PillowRat
-Mommonja    
+Tropicgel   =       Slime   +       Mommonja    
 Tropicgel   =       TreeSlime   +       Any Beast   
 Tropicgel   =       WonderEgg   +       Any Plant   
 Mimeslime   =       Healer  +       EvilWand
-1EyeClown
-TreeBoy     
+Mimeslime   =       Healer  +       1EyeClown
+Mimeslime   =       Healer  +       TreeBoy     
 Mimeslime   =       WonderEgg   +       Any Devil   
-Haloslime   =       MimeSlime   +       Any Zombie
-Pixy
-StubBird    
-Haloslime   =       Slime   +       CopyCat     
-Haloslime   =       WonderEgg   +       Any Bird    
-Metalking   =       SpotKing
-KingSlime   +       MetalDrak   
-Metalking   =       Metabble    +       Metabble    
-Metalking   =       WonderEgg   +       Metabble    
-Goldslime   =       SpotKing
-KingSlime
-MetalKing   +       GoldGolem   
-Goldslime   =       MetalKing   +       MetalKing   
-Goldslime   =       WonderEgg   +       MetalKing   
-Granslime   =       GoldSlime   +       DarkMate
-GoldSlime
-Deathmore   
-Granslime   =       WonderEgg   +       GoldSlime   
+HaloSlime   =       MimeSlime   +       Any Zombie
+HaloSlime   =       MimeSlime   +       Pixy
+HaloSlime   =       MimeSlime   +       StubBird    
+HaloSlime   =       Slime   +       CopyCat     
+HaloSlime   =       WonderEgg   +       Any Bird    
+MetalKing   =       SpotKing   +       MetalDrak   
+MetalKing   =       KingSlime   +       MetalDrak   
+MetalKing   =       Metabble    +       Metabble    
+MetalKing   =       WonderEgg   +       Metabble    
+GoldSlime   =       SpotKing   +       GoldGolem   
+GoldSlime   =       KingSlime   +       GoldGolem   
+GoldSlime   =       MetalKing   +       GoldGolem   
+GoldSlime   =       MetalKing   +       MetalKing   
+GoldSlime   =       WonderEgg   +       MetalKing   
+GranSlime   =       GoldSlime   +       DarkMate
+GranSlime   =       GoldSlime   +       GoldSlime
+GranSlime   =       GoldSlime   +       Deathmore   
+GranSlime   =       WonderEgg   +       GoldSlime   
 Wonderegg   =       Slime   +       BigRoost    Must be done on Multiplayer Breeding
-King Slime  =       Slime +5    +       Slime   
+KingSlime  =       Slime +5    +       Slime   

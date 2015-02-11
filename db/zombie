@@ -16,10 +16,10 @@ Skullgon    =       Any Dragon  +       DeadNoble
 Skullgon    =       Any Dragon  +       WhiteKing
 Skullgon    =       Any Dragon  +       Servant     
 Putrepup    =       Any Zombie  +       Any Beast   
-Rotraven    =       Any Zombie  +       Any Bird    
+RotRaven    =       Any Zombie  +       Any Bird    
 Mummy   =       Any Zombie  +       Any Plant   
-Darkcrab    =       Any Zombie  +       Any Bug     
-Deadnite    =       Any Zombie  +       Any Devil   
+DarkCrab    =       Any Zombie  +       Any Bug     
+DeadNite    =       Any Zombie  +       Any Devil   
 Shadow  =       Any Zombie  +       Any Material    
 Skulpent    =       Any Zombie  +       Any Water   
 Hork    =       Spooky  +       Any Beast   
@@ -51,7 +51,7 @@ Reaper  =       Any Zombie  +       WeedBug
 Inverzon    =       Hork    +       Hork    
 Foxfire     =       NiteWhip    +       Any Beast   
 Captdead    =       BoneSlave   +       Any Water   
-Deadnoble   =       Mudron
+DeadNoble   =       Mudron
 MadSpirit
 BoneSlave
 Skeletor    +       ArcDemon
@@ -59,14 +59,14 @@ Lionex
 GateGuard
 MetalDrak
 Roboster    
-Deadnoble   =       Skullgon    +       CopyCat     
-Deadnoble   =       DeadNite    +       CopyCat     
-Deadnoble   =       Mudron    +       CopyCat     
-Deadnoble   =       DeadNoble    +       CopyCat     
-Deadnoble   =       BoneSlave    +       CopyCat     
-Deadnoble   =       Skeletor    +       CopyCat     
-Deadnoble   =       DeadNite    +       DeadNite    
-Whiteking   =       Skullgon
+DeadNoble   =       Skullgon    +       CopyCat     
+DeadNoble   =       DeadNite    +       CopyCat     
+DeadNoble   =       Mudron    +       CopyCat     
+DeadNoble   =       DeadNoble    +       CopyCat     
+DeadNoble   =       BoneSlave    +       CopyCat     
+DeadNoble   =       Skeletor    +       CopyCat     
+DeadNoble   =       DeadNite    +       DeadNite    
+WhiteKing   =       Skullgon
 DeadNoble
 BoneSlave
 Skeletor    +       SpotKing
