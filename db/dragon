@@ -1,16 +1,16 @@
-Dragonkid   =       Any Dragon  +       Any Slime   
-Tortragon   =       Any Dragon  +       Any Beast   
-Pteranod    =       Any Dragon  +       Any Bird    
-Gasgon  =       Any Dragon  +       Any Plant   
-Fairydrak   =       Any Dragon  +       Any Bug     
-Lizardman   =       Any Dragon  +       Any Devil   
-Poisongon   =       Any Dragon  +       Any Zombie  
-Swordgon    =       Any Dragon  +       Any Material    
-Drygon  =       Any Dragon  +       Any Water   
+Dragonkid   =       AnyDragon  +       AnySlime   
+Tortragon   =       AnyDragon  +       AnyBeast   
+Pteranod    =       AnyDragon  +       AnyBird    
+Gasgon  =       AnyDragon  +       AnyPlant   
+Fairydrak   =       AnyDragon  +       AnyBug     
+Lizardman   =       AnyDragon  +       AnyDevil   
+Poisongon   =       AnyDragon  +       AnyZombie  
+Swordgon    =       AnyDragon  +       AnyMaterial    
+Drygon  =       AnyDragon  +       AnyWater   
 Dragon  =       DragonKid   +       DragonKid   
 Minidrak    =       Dragon  +       Picky   
-Maddragon   =       Gasgon  +       Any Beast   
-Maddragon   =       Any Dragon  +       GulpBeast   
+Maddragon   =       Gasgon  +       AnyBeast   
+Maddragon   =       AnyDragon  +       GulpBeast   
 Rayburn     =       LizardMan   +       WingSlime
 Trumpeter
 MadCat
@@ -19,9 +19,9 @@ Lionex
 GoatHorn
 GateGuard
 Giagantes   
-Rayburn     =       Any Dragon  +       MadCondor   
-Chamelgon   =       Any Dragon  +       Voodoll     
-Lizardfly   =       Any Dragon  +       GoHopper    
+Rayburn     =       AnyDragon  +       MadCondor   
+Chamelgon   =       AnyDragon  +       Voodoll     
+Lizardfly   =       AnyDragon  +       GoHopper    
 Andreal     =       Gasgon
 MadDragon
 BattleRex
@@ -37,13 +37,13 @@ Ogre
 Akubar
 DeadNoble
 Golem   
-Andreal     =       Any Dragon  +       Gulpple     
-Kingcobra   =       Any Dragon  +       Babble  
-Snakebat    =       Any Dragon  +       CatFly  
+Andreal     =       AnyDragon  +       Gulpple     
+Kingcobra   =       AnyDragon  +       Babble  
+Snakebat    =       AnyDragon  +       CatFly  
 Snakebat    =       KingCobra   +       Dracky  
-Spikerous   =       Any Dragon  +       Armycrab
+Spikerous   =       AnyDragon  +       Armycrab
 Digster     
-GreatDrak   =       Any Dragon  +       SpotKing
+GreatDrak   =       AnyDragon  +       SpotKing
 KingSlime
 MetalKing
 BattleRex
@@ -54,7 +54,7 @@ Gigantes
 Centasaur   
 GreatDrak   =       DragonKid*  +       DragonKid*  *Monster created must be of +4 or higher to succeed
 GreatDrak   =       Dragon*     +       Dragon*     *Monster created must be of +4 or higher to succeed
-Crestpent   =       Any Dragon  +       BigRoost    
+Crestpent   =       AnyDragon  +       BigRoost    
 Wingsnake   =       Crestpent   +       Crestpent   
 Coatol  =       Pteranod
 Gasgon
@@ -68,13 +68,13 @@ StoneMan
 Coatol  =       WingSnake   +       WingSnake   
 Orochi  =       Andreal
 GreatDrak   +       MedusaEye   
-Orochi  =       Any Dragon  +       Any Boss    
-Battlerex   =       Any Dragon  +       Kingleo
+Orochi  =       AnyDragon  +       AnyBoss    
+Battlerex   =       AnyDragon  +       Kingleo
 Lionex
 Ogre
 MadKnight
 EvilArmor   
-Skydragon   =       Any Dragon  +       Phoenix     
+Skydragon   =       AnyDragon  +       Phoenix     
 Serpentia   =       GreatDrak   +       Lionex
 Skeletor
 Octoraid    
@@ -87,5 +87,5 @@ BattleRex
 GreatDrak
 SkyDragon   +       BossTroll
 Gigantes    
-Vampirus    =       Any Dragon  +       MadGoose    
+Vampirus    =       AnyDragon  +       MadGoose    
 Vampirus    =       Pteranod    +       Pteranod

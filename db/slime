@@ -1,29 +1,29 @@
-Drakslime   =       Any Slime   +       Any Dragon  
-Spotslime   =       Any Slime   +       Any Beast   
-Wingslime   =       Any Slime   +       Any Bird    
-Treeslime   =       Any Slime   +       Any Plant   
-Snaily  =       Any Slime   +       Any Bug     
-Slimenite   =       Any Slime   +       Any Devil   
-Babble  =       Any Slime   +       Poisongon
-Babble  =       Any Slime   +       GiantMoth
-Babble  =       Any Slime   +       Any Zombie  
-Boxslime    =       Any Slime   +       Any Material    
-Pearlgel    =       Any Slime   +       Any Water   
+Drakslime   =       AnySlime   +       AnyDragon  
+Spotslime   =       AnySlime   +       AnyBeast   
+Wingslime   =       AnySlime   +       AnyBird    
+Treeslime   =       AnySlime   +       AnyPlant   
+Snaily  =       AnySlime   +       AnyBug     
+Slimenite   =       AnySlime   +       AnyDevil   
+Babble  =       AnySlime   +       Poisongon
+Babble  =       AnySlime   +       GiantMoth
+Babble  =       AnySlime   +       AnyZombie  
+Boxslime    =       AnySlime   +       AnyMaterial    
+Pearlgel    =       AnySlime   +       AnyWater   
 Slime   =       Slime   +       Slime   You can breed two weaker slimes to make one of higher power.
-Healer  =       Any Slime   +       PillowRat
-Healer  =       Any Slime   +       MadPlant
-Healer  =       Any Slime   +       CopyCat
-Healer  =       Any Slime   +       FunkyBird   
-Fangslime   =       Any Slime   +       Almiraj
-Fangslime   =       Any Slime   +       GulpBeast
-Fangslime   =       Any Slime   +       Trumpeter
-Fangslime   =       Any Slime   +       Kingleo
-Fangslime   =       Any Slime   +       Darkhorn
-Fangslime   =       Any Slime   +       MadCat  
-Rockslime   =       Any Slime   +       DeadNite
-Rockslime   =       Any Slime   +       Golem
-Rockslime   =       Any Slime   +       StoneMan
-Rockslime   =       Any Slime   +       BombCrag    
+Healer  =       AnySlime   +       PillowRat
+Healer  =       AnySlime   +       MadPlant
+Healer  =       AnySlime   +       CopyCat
+Healer  =       AnySlime   +       FunkyBird   
+Fangslime   =       AnySlime   +       Almiraj
+Fangslime   =       AnySlime   +       GulpBeast
+Fangslime   =       AnySlime   +       Trumpeter
+Fangslime   =       AnySlime   +       Kingleo
+Fangslime   =       AnySlime   +       Darkhorn
+Fangslime   =       AnySlime   +       MadCat  
+Rockslime   =       AnySlime   +       DeadNite
+Rockslime   =       AnySlime   +       Golem
+Rockslime   =       AnySlime   +       StoneMan
+Rockslime   =       AnySlime   +       BombCrag    
 Slimeborg   =       DrakSlime
 SlimeNite
 RockSlime
@@ -32,8 +32,8 @@ Spikerous
 GreatDrak
 BattleRex
 SkyDragon   
-Slimeborg   =       Any Slime   +       Roboster    
-Slabbit     =       Any Slime   +       Skullroo    
+Slimeborg   =       AnySlime   +       Roboster    
+Slabbit     =       AnySlime   +       Skullroo    
 Kingslime   =       SpotKing    +       GreatDrak
 BattleRex
 Divinegon
@@ -47,8 +47,8 @@ Gigantes
 Centasaur
 DeadNoble
 WhiteKing   
-Kingslime   =       Any Slime   +       Any Boss    
-Metaly  =       Any Slime   +       MetalDrak   
+Kingslime   =       AnySlime   +       AnyBoss    
+Metaly  =       AnySlime   +       MetalDrak   
 Metabble    =       Metaly  +       Metaly
 Metabble    =       Metaly  +       WonderEgg   
 Spotking    =       KingSlime
@@ -67,17 +67,17 @@ WhiteKing
 Spotking    =       SpotSlime*  +       SpotSlime*  *Monster created must be of +4 or higher to succeed
 Tropicgel   =       Slime   +       PillowRat
 Tropicgel   =       Slime   +       Mommonja    
-Tropicgel   =       TreeSlime   +       Any Beast   
-Tropicgel   =       WonderEgg   +       Any Plant   
+Tropicgel   =       TreeSlime   +       AnyBeast   
+Tropicgel   =       WonderEgg   +       AnyPlant   
 Mimeslime   =       Healer  +       EvilWand
 Mimeslime   =       Healer  +       1EyeClown
 Mimeslime   =       Healer  +       TreeBoy     
-Mimeslime   =       WonderEgg   +       Any Devil   
-HaloSlime   =       MimeSlime   +       Any Zombie
+Mimeslime   =       WonderEgg   +       AnyDevil   
+HaloSlime   =       MimeSlime   +       AnyZombie
 HaloSlime   =       MimeSlime   +       Pixy
 HaloSlime   =       MimeSlime   +       StubBird    
 HaloSlime   =       Slime   +       CopyCat     
-HaloSlime   =       WonderEgg   +       Any Bird    
+HaloSlime   =       WonderEgg   +       AnyBird    
 MetalKing   =       SpotKing   +       MetalDrak   
 MetalKing   =       KingSlime   +       MetalDrak   
 MetalKing   =       Metabble    +       Metabble    

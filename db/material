@@ -1,20 +1,20 @@
-Jewelbag    =       Any Material    +       Any Slime   
-EVILWAND    =       Any Material    +       Any Dragon  
-Madcandle   =       Any Material    +       Any Beast   
-Coilbird    =       Any Material    +       Any Bird    
-Facer   =       Any Material    +       Any Plant   
-Spikyboy    =       Any Material    +       Any Bug     
-Madmirror   =       Any Material    +       Any Devil   
-Roguenite   =       Any Material    +       Any Zombie  
-Puppetor    =       Any Material    +       Gremlin     
-Goopi   =       JewelBag    +       Any Material    
+Jewelbag    =       AnyMaterial    +       AnySlime   
+EVILWAND    =       AnyMaterial    +       AnyDragon  
+Madcandle   =       AnyMaterial    +       AnyBeast   
+Coilbird    =       AnyMaterial    +       AnyBird    
+Facer   =       AnyMaterial    +       AnyPlant   
+Spikyboy    =       AnyMaterial    +       AnyBug     
+Madmirror   =       AnyMaterial    +       AnyDevil   
+Roguenite   =       AnyMaterial    +       AnyZombie  
+Puppetor    =       AnyMaterial    +       Gremlin     
+Goopi   =       JewelBag    +       AnyMaterial    
 Voodoll     =       Golem
 StoneMan    +       DrakSlime
 Snaily
 SlimeNite
 RockSlime   
-Voodoll     =       Any Material    +       Lipsy   
-Voodoll     =       Puppetor    +       Any Devil   
+Voodoll     =       AnyMaterial    +       Lipsy   
+Voodoll     =       Puppetor    +       AnyDevil   
 Metaldrak   =       Andreal
 Spikerous
 GreatDrak   +       SlimeBorg
@@ -24,11 +24,11 @@ Skullgon
 Roboster
 Golem
 StoneMan    
-Metaldrak   =       MetalDrak   +       Any Dragon  
-Metaldrak   =       Any Material    +       Andreal     
+Metaldrak   =       MetalDrak   +       AnyDragon  
+Metaldrak   =       AnyMaterial    +       Andreal     
 Balzak  =       LavaMan
-IceMan  +       Any Devil   
-Balzak  =       Any Material    +       Any Boss    
+IceMan  +       AnyDevil   
+Balzak  =       AnyMaterial    +       AnyBoss    
 Sabreman    =       EvilWand
 Voodoll
 Golem
@@ -36,10 +36,10 @@ StoneMan    +       LandOwl
 MadGoose
 Phoenix
 FunkyBird   
-Sabreman    =       Any Material    +       GiantWorm   
-CurseLamp   =       Roboster    +       Any Bird    
-CurseLamp   =       Any Material    +       WingTree    
-Brushead    =       Any Material    +       Any Water   
+Sabreman    =       AnyMaterial    +       GiantWorm   
+CurseLamp   =       Roboster    +       AnyBird    
+CurseLamp   =       AnyMaterial    +       WingTree    
+Brushead    =       AnyMaterial    +       AnyWater   
 Roboster    =       SabreMan    +       SlimeBorg
 GreatDrak
 Unicorn
@@ -48,14 +48,14 @@ Grendal
 EvilArmor
 DeadNoble
 Skeletor    
-Roboster    =       Any Material    +       GulpBeast
+Roboster    =       AnyMaterial    +       GulpBeast
 Grizzly
 Trumpeter
 Kingleo
 SkulRider   
 Roboster2   =       Roboster*   +       Roboster    *Monster created must be of +5 or higher to succeed
-Evilpot     =       Gismo   +       Any Devil   
-Evilpot     =       Any Material    +       Snaily  
+Evilpot     =       Gismo   +       AnyDevil   
+Evilpot     =       AnyMaterial    +       Snaily  
 Gismo   =       MadCandle
 MadMirror
 Goopi   +       DrakSlime
@@ -72,21 +72,21 @@ Centasaur
 Iceman  =       MetalDrak   +       Skullgon
 WhiteKing   
 Iceman  =       Roboster    +       Kingleo     
-Mimic   =       Roboster    +       Any Zombie  
-Mimic   =       Any Material    +       BoxSlime    
-Exaucers    =       Any Material    +       Dracky  
+Mimic   =       Roboster    +       AnyZombie  
+Mimic   =       AnyMaterial    +       BoxSlime    
+Exaucers    =       AnyMaterial    +       Dracky  
 Muddoll     =       Goopi   +       Goopi   
 Golem   =       MudDoll     +       MudDoll     
 Stoneman    =       Golem   +       Golem   
-Stoneman    =       Any Material    +       HornBeet
+Stoneman    =       AnyMaterial    +       HornBeet
 Digster     
 Bombcrag    =       SpikyBoy    +       SpikyBoy    
-Bombcrag    =       Roboster    +       Any Bug     
+Bombcrag    =       Roboster    +       AnyBug     
 Goldgolem   =       IceMan  +       LavaMan     
 Darkmate    =       GoldGolem   +       MetalKing   
-Protomech   =       Any Material    +       EvilArmor   
-Protomech   =       Roboster    +       Any Slime   
-Protomech   =       RogueNite   +       Any Devil   
+Protomech   =       AnyMaterial    +       EvilArmor   
+Protomech   =       Roboster    +       AnySlime   
+Protomech   =       RogueNite   +       AnyDevil   
 Cloudking   =       Gismo   +       KingSlime
 SpotKing
 SkyDragon
