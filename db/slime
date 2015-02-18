@@ -9,7 +9,7 @@ Babble  =       AnySlime   +       GiantMoth
 Babble  =       AnySlime   +       AnyZombie  
 Boxslime    =       AnySlime   +       AnyMaterial    
 Pearlgel    =       AnySlime   +       AnyWater   
-Slime   =       Slime   +       Slime   You can breed two weaker slimes to make one of higher power.
+Slime   =       Slime   +       Slime
 Healer  =       AnySlime   +       PillowRat
 Healer  =       AnySlime   +       MadPlant
 Healer  =       AnySlime   +       CopyCat
@@ -64,7 +64,7 @@ Gigantes
 Centasaur
 DeadNoble
 WhiteKing   
-Spotking    =       SpotSlime*  +       SpotSlime*  *Monster created must be of +4 or higher to succeed
+Spotking    =       SpotSlime  +       SpotSlime
 Tropicgel   =       Slime   +       PillowRat
 Tropicgel   =       Slime   +       Mommonja    
 Tropicgel   =       TreeSlime   +       AnyBeast   
@@ -91,5 +91,5 @@ GranSlime   =       GoldSlime   +       DarkMate
 GranSlime   =       GoldSlime   +       GoldSlime
 GranSlime   =       GoldSlime   +       Deathmore   
 GranSlime   =       WonderEgg   +       GoldSlime   
-Wonderegg   =       Slime   +       BigRoost    Must be done on Multiplayer Breeding
+WonderEgg   =       Slime   +       BigRoost
 KingSlime  =       Slime +5    +       Slime   
