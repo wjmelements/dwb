@@ -1,0 +1,15 @@
+#!/usr/bin/perl
+%recipe;
+while (<>) {
+    if (/^(\w+) = (\w+) \+ (\w+)$/) {
+        $recipe{$2}{$3} = $1; 
+        $recipe{$3}{$2} = $1; 
+    } else {
+        print "Nonconforming line: $_";
+    }
+}
+%costs;
+@cheapfamilies = qw/beast bird bug devil dragon material plant slime water zombie/;
+foreach $family (@cheapfamilies) {
+    %costs["Any$family"] = 1;
+}
