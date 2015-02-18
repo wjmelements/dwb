@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 %recipe;
 while (<>) {
-    if (/^(\w+) = (\w+) \+ (\w+)$/) {
+    if (/^(\w+)\s+=\s+(\w+)\s+\+\s+(\w+)\s*$/) {
         $recipe{$2}{$3} = $1; 
         $recipe{$3}{$2} = $1; 
     } else {
@@ -11,5 +11,5 @@ while (<>) {
 %costs;
 @cheapfamilies = qw/beast bird bug devil dragon material plant slime water zombie/;
 foreach $family (@cheapfamilies) {
-    %costs["Any$family"] = 1;
+    $costs["Any$family"] = 1;
 }

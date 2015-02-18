@@ -51,26 +51,14 @@ Reaper  =       Any Zombie  +       WeedBug
 Inverzon    =       Hork    +       Hork    
 Foxfire     =       NiteWhip    +       Any Beast   
 Captdead    =       BoneSlave   +       Any Water   
-DeadNoble = Mudron   +  ArcDemon
-DeadNoble = Mudron   +  Lionex
-DeadNoble = Mudron   +  GateGuard
-DeadNoble = Mudron   +  MetalDrak
-DeadNoble = Mudron   +  Roboster
-DeadNoble = MadSpirit    +  ArcDemon
-DeadNoble = MadSpirit    +  Lionex
-DeadNoble = MadSpirit    +  GateGuard
-DeadNoble = MadSpirit    +  MetalDrak
-DeadNoble = MadSpirit    +  Roboster
-DeadNoble = BoneSlave    +  ArcDemon
-DeadNoble = BoneSlave    +  Lionex
-DeadNoble = BoneSlave    +  GateGuard
-DeadNoble = BoneSlave    +  MetalDrak
-DeadNoble = BoneSlave    +  Roboster
-DeadNoble = Skeletor     +  ArcDemon
-DeadNoble = Skeletor     +  Lionex
-DeadNoble = Skeletor     +  GateGuard
-DeadNoble = Skeletor     +  MetalDrak
-DeadNoble = Skeletor     +  Roboster
+DeadNoble   =       Mudron
+MadSpirit
+BoneSlave
+Skeletor    +       ArcDemon
+Lionex
+GateGuard
+MetalDrak
+Roboster    
 DeadNoble   =       Skullgon    +       CopyCat     
 DeadNoble   =       DeadNite    +       CopyCat     
 DeadNoble   =       Mudron    +       CopyCat     
@@ -78,104 +66,41 @@ DeadNoble   =       DeadNoble    +       CopyCat
 DeadNoble   =       BoneSlave    +       CopyCat     
 DeadNoble   =       Skeletor    +       CopyCat     
 DeadNoble   =       DeadNite    +       DeadNite    
-WhiteKing = Skullgon     +  SpotKing
-WhiteKing = Skullgon     +  KingSlime
-WhiteKing = Skullgon     +  MetalKing
-WhiteKing = Skullgon     +  Andreal
-WhiteKing = Skullgon     +  GreatDrak
-WhiteKing = Skullgon     +  Kingleo
-WhiteKing = Skullgon     +  Blizzardy
-WhiteKing = Skullgon     +  ZapBird
-WhiteKing = Skullgon     +  WhipBird
-WhiteKing = Skullgon     +  GoldGolem
-WhiteKing = DeadNoble    +  SpotKing
-WhiteKing = DeadNoble    +  KingSlime
-WhiteKing = DeadNoble    +  MetalKing
-WhiteKing = DeadNoble    +  Andreal
-WhiteKing = DeadNoble    +  GreatDrak
-WhiteKing = DeadNoble    +  Kingleo
-WhiteKing = DeadNoble    +  Blizzardy
-WhiteKing = DeadNoble    +  ZapBird
-WhiteKing = DeadNoble    +  WhipBird
-WhiteKing = DeadNoble    +  GoldGolem
-WhiteKing = BoneSlave    +  SpotKing
-WhiteKing = BoneSlave    +  KingSlime
-WhiteKing = BoneSlave    +  MetalKing
-WhiteKing = BoneSlave    +  Andreal
-WhiteKing = BoneSlave    +  GreatDrak
-WhiteKing = BoneSlave    +  Kingleo
-WhiteKing = BoneSlave    +  Blizzardy
-WhiteKing = BoneSlave    +  ZapBird
-WhiteKing = BoneSlave    +  WhipBird
-WhiteKing = BoneSlave    +  GoldGolem
-WhiteKing = Skeletor     +  SpotKing
-WhiteKing = Skeletor     +  KingSlime
-WhiteKing = Skeletor     +  MetalKing
-WhiteKing = Skeletor     +  Andreal
-WhiteKing = Skeletor     +  GreatDrak
-WhiteKing = Skeletor     +  Kingleo
-WhiteKing = Skeletor     +  Blizzardy
-WhiteKing = Skeletor     +  ZapBird
-WhiteKing = Skeletor     +  WhipBird
-WhiteKing = Skeletor     +  GoldGolem
+WhiteKing   =       Skullgon
+DeadNoble
+BoneSlave
+Skeletor    +       SpotKing
+KingSlime
+MetalKing
+Andreal
+GreatDrak
+Kingleo
+Blizzardy
+ZapBird
+WhipBird
+GoldGolem   
 Whiteking   =       Any Zombie  +       Any Boss    
-Boneslave = Mummy    +  RockSlime
-Boneslave = Mummy    +  SlimeBorg
-Boneslave = Mummy    +  LandOwl
-Boneslave = Mummy    +  MadGoose
-Boneslave = Mummy    +  FloraMan
-Boneslave = Mummy    +  HornBeet
-Boneslave = Mummy    +  Gremlin
-Boneslave = DeadNite     +  RockSlime
-Boneslave = DeadNite     +  SlimeBorg
-Boneslave = DeadNite     +  LandOwl
-Boneslave = DeadNite     +  MadGoose
-Boneslave = DeadNite     +  FloraMan
-Boneslave = DeadNite     +  HornBeet
-Boneslave = DeadNite     +  Gremlin
-Boneslave = Hork     +  RockSlime
-Boneslave = Hork     +  SlimeBorg
-Boneslave = Hork     +  LandOwl
-Boneslave = Hork     +  MadGoose
-Boneslave = Hork     +  FloraMan
-Boneslave = Hork     +  HornBeet
-Boneslave = Hork     +  Gremlin
-Skeletor = Mummy     +  GulpBeast
-Skeletor = Mummy     +  Grizzly
-Skeletor = Mummy     +  MadCat
-Skeletor = Mummy     +  MadRaven
-Skeletor = Mummy     +  MadCondor
-Skeletor = Mummy     +  Evilbeast
-Skeletor = Mummy     +  Ogre
-Skeletor = Mummy     +  Golem
-Skeletor = Mummy     +  StoneMan
-Skeletor = DeadNite  +  GulpBeast
-Skeletor = DeadNite  +  Grizzly
-Skeletor = DeadNite  +  MadCat
-Skeletor = DeadNite  +  MadRaven
-Skeletor = DeadNite  +  MadCondor
-Skeletor = DeadNite  +  Evilbeast
-Skeletor = DeadNite  +  Ogre
-Skeletor = DeadNite  +  Golem
-Skeletor = DeadNite  +  StoneMan
-Skeletor = Hork  +  GulpBeast
-Skeletor = Hork  +  Grizzly
-Skeletor = Hork  +  MadCat
-Skeletor = Hork  +  MadRaven
-Skeletor = Hork  +  MadCondor
-Skeletor = Hork  +  Evilbeast
-Skeletor = Hork  +  Ogre
-Skeletor = Hork  +  Golem
-Skeletor = Hork  +  StoneMan
-Skeletor = Mudron    +  GulpBeast
-Skeletor = Mudron    +  Grizzly
-Skeletor = Mudron    +  MadCat
-Skeletor = Mudron    +  MadRaven
-Skeletor = Mudron    +  MadCondor
-Skeletor = Mudron    +  Evilbeast
-Skeletor = Mudron    +  Ogre
-Skeletor = Mudron    +  Golem
-Skeletor = Mudron    +  StoneMan
+Boneslave   =       Mummy
+DeadNite
+Hork    +       RockSlime
+SlimeBorg
+LandOwl
+MadGoose
+FloraMan
+HornBeet
+Gremlin     
+Skeletor    =       Mummy
+DeadNite
+Hork
+Mudron  +       GulpBeast
+Grizzly
+MadCat
+MadRaven
+MadCondor
+Evilbeast
+Ogre
+Golem
+StoneMan    
 Skeletor    =       BoneSlave   +       BoneSlave   
 Skeletor    =       MadSpirit   +       Any Dragon  
 Servant     =       Skeletor    +       Skeletor    
