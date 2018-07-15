@@ -3,13 +3,35 @@
 while (<>) {
     if (/^(\w+)\s+=\s+(\w+)\s+\+\s+(\w+)\s*$/) {
         $recipe{$2}{$3} = $1; 
-        $recipe{$3}{$2} = $1; 
+        #$recipe{$3}{$2} = $1; 
     } else {
         print "Nonconforming line: $_";
     }
 }
 %costs;
-@cheapfamilies = qw/beast bird bug devil dragon material plant slime water zombie/;
+%cheapest;
+@cheapfamilies = qw/Beast Bird Bug Devil Dragon Material Plant Slime Water Zombie/;
 foreach $family (@cheapfamilies) {
-    $costs["Any$family"] = 1;
+    $costs{"Any$family"} = 1;
+}
+$change = 1;
+while ($change) {
+    $change = 0;
+    print "ROUND\n";
+    foreach my $part1 (keys %recipe) {
+        foreach my $part2 (keys %{$recipe{$part1}} ) {
+            if ($costs{$part2} and $costs{$part1}) {
+                $cost = $costs{$recipe{$part1}{$part2}};
+                $sum = $costs{$part1} + $costs{$part2};
+                if (not defined $cost or $sum < $cost) {
+                    $costs{$recipe{$part1}{$part2}} = $sum;
+                    $cheapest{$recipe{$part1}{$part2}} = "$part1 + $part2";
+                    $change = 1;
+                }
+            }
+        }
+    }
+}
+foreach $monster (sort keys %costs) {
+    print "$monster: $costs{$monster} ($cheapest{$monster})\n";
 }
