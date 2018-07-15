@@ -1,7 +1,9 @@
 #!/usr/bin/perl
 %recipe;
+%families;
 while (<>) {
     if (/^(\w+)\s+=\s+(\w+)\s+\+\s+(\w+)\s*$/) {
+        $families{$1}= $ARGV;
         $recipe{$2}{$3} = $1; 
         #$recipe{$3}{$2} = $1; 
     } else {
@@ -33,5 +35,5 @@ while ($change) {
     }
 }
 foreach $monster (sort keys %costs) {
-    print "$monster: $costs{$monster} ($cheapest{$monster})\n";
+    print "$monster: $costs{$monster} ($cheapest{$monster}) $families{$monster}\n";
 }
