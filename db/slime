@@ -1,95 +1,118 @@
-Drakslime   =       AnySlime   +       AnyDragon  
-Spotslime   =       AnySlime   +       AnyBeast   
-Wingslime   =       AnySlime   +       AnyBird    
-Treeslime   =       AnySlime   +       AnyPlant   
-Snaily  =       AnySlime   +       AnyBug     
-Slimenite   =       AnySlime   +       AnyDevil   
-Babble  =       AnySlime   +       Poisongon
-Babble  =       AnySlime   +       GiantMoth
-Babble  =       AnySlime   +       AnyZombie  
-Boxslime    =       AnySlime   +       AnyMaterial    
-Pearlgel    =       AnySlime   +       AnyWater   
-Slime   =       Slime   +       Slime
-Healer  =       AnySlime   +       PillowRat
-Healer  =       AnySlime   +       MadPlant
-Healer  =       AnySlime   +       CopyCat
-Healer  =       AnySlime   +       FunkyBird   
-Fangslime   =       AnySlime   +       Almiraj
-Fangslime   =       AnySlime   +       GulpBeast
-Fangslime   =       AnySlime   +       Trumpeter
-Fangslime   =       AnySlime   +       Kingleo
-Fangslime   =       AnySlime   +       Darkhorn
-Fangslime   =       AnySlime   +       MadCat  
-Rockslime   =       AnySlime   +       DeadNite
-Rockslime   =       AnySlime   +       Golem
-Rockslime   =       AnySlime   +       StoneMan
-Rockslime   =       AnySlime   +       BombCrag    
-Slimeborg   =       DrakSlime
-SlimeNite
-RockSlime
-Metabble    +       Swordgon
-Spikerous
-GreatDrak
-BattleRex
-SkyDragon   
-Slimeborg   =       AnySlime   +       Roboster    
-Slabbit     =       AnySlime   +       Skullroo    
-Kingslime   =       SpotKing    +       GreatDrak
-BattleRex
-Divinegon
-Unicorn
-Kingleo
-MadCondor
-ZapBird
-WhipBird
-BossTroll
-Gigantes
-Centasaur
-DeadNoble
-WhiteKing   
-Kingslime   =       AnySlime   +       AnyBoss    
-Metaly  =       AnySlime   +       MetalDrak   
-Metabble    =       Metaly  +       Metaly
-Metabble    =       Metaly  +       WonderEgg   
-Spotking    =       KingSlime
-MetalKing   +       GreatDrak
-BattleRex
-Divinegon
-Unicorn
-Kingleo
-MadCondor
-ZapBird
-WhipBird
-Gigantes
-Centasaur
-DeadNoble
-WhiteKing   
-Spotking    =       SpotSlime  +       SpotSlime
-Tropicgel   =       Slime   +       PillowRat
-Tropicgel   =       Slime   +       Mommonja    
-Tropicgel   =       TreeSlime   +       AnyBeast   
-Tropicgel   =       WonderEgg   +       AnyPlant   
-Mimeslime   =       Healer  +       EvilWand
-Mimeslime   =       Healer  +       1EyeClown
-Mimeslime   =       Healer  +       TreeBoy     
-Mimeslime   =       WonderEgg   +       AnyDevil   
-HaloSlime   =       MimeSlime   +       AnyZombie
-HaloSlime   =       MimeSlime   +       Pixy
-HaloSlime   =       MimeSlime   +       StubBird    
-HaloSlime   =       Slime   +       CopyCat     
-HaloSlime   =       WonderEgg   +       AnyBird    
-MetalKing   =       SpotKing   +       MetalDrak   
-MetalKing   =       KingSlime   +       MetalDrak   
-MetalKing   =       Metabble    +       Metabble    
-MetalKing   =       WonderEgg   +       Metabble    
-GoldSlime   =       SpotKing   +       GoldGolem   
-GoldSlime   =       KingSlime   +       GoldGolem   
-GoldSlime   =       MetalKing   +       GoldGolem   
-GoldSlime   =       MetalKing   +       MetalKing   
-GoldSlime   =       WonderEgg   +       MetalKing   
-GranSlime   =       GoldSlime   +       DarkMate
-GranSlime   =       GoldSlime   +       GoldSlime
-GranSlime   =       GoldSlime   +       Deathmore   
-GranSlime   =       WonderEgg   +       GoldSlime   
-WonderEgg   =       Slime   +       BigRoost
-KingSlime  =       Slime +5    +       Slime   
+Drakslime = AnySlime + AnyDragon
+SpotSlime = AnySlime + AnyBeast
+Wingslime = AnySlime + AnyBird
+Treeslime = AnySlime + AnyPlant
+Snaily = AnySlime + AnyBug
+SlimeNite = AnySlime + AnyDevil
+Babble = AnySlime + Poisongon
+Babble = AnySlime + GiantMoth
+Babble = AnySlime + AnyZombie
+BoxSlime = AnySlime + AnyMaterial
+PearlGel = AnySlime + AnyWater
+Slime = Slime + Slime
+Healer = AnySlime + PillowRat
+Healer = AnySlime + MadPlant
+Healer = AnySlime + CopyCat
+Healer = AnySlime + FunkyBird
+FangSlime = AnySlime + Almiraj
+FangSlime = AnySlime + GulpBeast
+FangSlime = AnySlime + Trumpeter
+FangSlime = AnySlime + Kingleo
+FangSlime = AnySlime + Darkhorn
+FangSlime = AnySlime + MadCat
+RockSlime = AnySlime + DeadNite
+RockSlime = AnySlime + Golem
+RockSlime = AnySlime + StoneMan
+RockSlime = AnySlime + BombCrag
+SlimeBorg = DrakSlime + Swordgon
+SlimeBorg = DrakSlime + Spikerous
+SlimeBorg = DrakSlime + GreatDrak
+SlimeBorg = DrakSlime + BattleRex
+SlimeBorg = DrakSlime + SkyDragon
+SlimeBorg = SlimeNite + Swordgon
+SlimeBorg = SlimeNite + Spikerous
+SlimeBorg = SlimeNite + GreatDrak
+SlimeBorg = SlimeNite + BattleRex
+SlimeBorg = SlimeNite + SkyDragon
+SlimeBorg = RockSlime + Swordgon
+SlimeBorg = RockSlime + Spikerous
+SlimeBorg = RockSlime + GreatDrak
+SlimeBorg = RockSlime + BattleRex
+SlimeBorg = RockSlime + SkyDragon
+SlimeBorg = Metabble + Swordgon
+SlimeBorg = Metabble + Spikerous
+SlimeBorg = Metabble + GreatDrak
+SlimeBorg = Metabble + BattleRex
+SlimeBorg = Metabble + SkyDragon
+SlimeBorg = AnySlime + Roboster
+Slabbit = AnySlime + Skullroo
+KingSlime = SpotKing + GreatDrak
+KingSlime = SpotKing + BattleRex
+KingSlime = SpotKing + Divinegon
+KingSlime = SpotKing + Unicorn
+KingSlime = SpotKing + Kingleo
+KingSlime = SpotKing + MadCondor
+KingSlime = SpotKing + ZapBird
+KingSlime = SpotKing + WhipBird
+KingSlime = SpotKing + BossTroll
+KingSlime = SpotKing + Gigantes
+KingSlime = SpotKing + Centasaur
+KingSlime = SpotKing + DeadNoble
+KingSlime = SpotKing + WhiteKing
+KingSlime = AnySlime + AnyBoss
+Metaly = AnySlime + MetalDrak
+Metabble = Metaly + Metaly
+Metabble = Metaly + WonderEgg
+Spotking = KingSlime + GreatDrak
+Spotking = KingSlime + BattleRex
+Spotking = KingSlime + Divinegon
+Spotking = KingSlime + Unicorn
+Spotking = KingSlime + Kingleo
+Spotking = KingSlime + MadCondor
+Spotking = KingSlime + ZapBird
+Spotking = KingSlime + WhipBird
+Spotking = KingSlime + Gigantes
+Spotking = KingSlime + Centasaur
+Spotking = KingSlime + DeadNoble
+Spotking = KingSlime + WhiteKing
+Spotking = MetalKing + GreatDrak
+Spotking = MetalKing + BattleRex
+Spotking = MetalKing + Divinegon
+Spotking = MetalKing + Unicorn
+Spotking = MetalKing + Kingleo
+Spotking = MetalKing + MadCondor
+Spotking = MetalKing + ZapBird
+Spotking = MetalKing + WhipBird
+Spotking = MetalKing + Gigantes
+Spotking = MetalKing + Centasaur
+Spotking = MetalKing + DeadNoble
+Spotking = MetalKing + WhiteKing
+Spotking = SpotSlime + SpotSlime
+Tropicgel = Slime + PillowRat
+Tropicgel = Slime + Mommonja
+Tropicgel = TreeSlime + AnyBeast
+Tropicgel = WonderEgg + AnyPlant
+MimeSlime = Healer + EvilWand
+MimeSlime = Healer + 1EyeClown
+MimeSlime = Healer + TreeBoy
+MimeSlime = WonderEgg + AnyDevil
+HaloSlime = MimeSlime + AnyZombie
+HaloSlime = MimeSlime + Pixy
+HaloSlime = MimeSlime + StubBird
+HaloSlime = Slime + CopyCat
+HaloSlime = WonderEgg + AnyBird
+MetalKing = SpotKing + MetalDrak
+MetalKing = KingSlime + MetalDrak
+MetalKing = Metabble + Metabble
+MetalKing = WonderEgg + Metabble
+GoldSlime = SpotKing + GoldGolem
+GoldSlime = KingSlime + GoldGolem
+GoldSlime = MetalKing + GoldGolem
+GoldSlime = MetalKing + MetalKing
+GoldSlime = WonderEgg + MetalKing
+GranSlime = GoldSlime + DarkMate
+GranSlime = GoldSlime + GoldSlime
+GranSlime = GoldSlime + Deathmore
+GranSlime = WonderEgg + GoldSlime
+WonderEgg = Slime + BigRoost
+KingSlime = Slime + Slime
