@@ -52,13 +52,21 @@ Inverzon    =       Hork    +       Hork
 Foxfire     =       NiteWhip    +       AnyBeast   
 Captdead    =       BoneSlave   +       AnyWater   
 DeadNoble   =       Mudron
-MadSpirit
-BoneSlave
+MadSpirit    +       ArcDemon
+BoneSlave    +       ArcDemon
 Skeletor    +       ArcDemon
-Lionex
-GateGuard
-MetalDrak
-Roboster    
+MadSpirit    +       Lionex
+BoneSlave    +       Lionex
+Skeletor    +       Lionex
+MadSpirit    +       GateGuard
+BoneSlave    +       GateGuard
+Skeletor    +       GateGuard
+MadSpirit    +       MetalDrak
+BoneSlave    +       MetalDrak
+Skeletor    +       MetalDrak
+MadSpirit    +       Roboster
+BoneSlave    +       Roboster
+Skeletor    +       Roboster
 DeadNoble   =       Skullgon    +       CopyCat     
 DeadNoble   =       DeadNite    +       CopyCat     
 DeadNoble   =       Mudron    +       CopyCat     
@@ -66,29 +74,68 @@ DeadNoble   =       DeadNoble    +       CopyCat
 DeadNoble   =       BoneSlave    +       CopyCat     
 DeadNoble   =       Skeletor    +       CopyCat     
 DeadNoble   =       DeadNite    +       DeadNite    
-WhiteKing   =       Skullgon
-DeadNoble
-BoneSlave
-Skeletor    +       SpotKing
-KingSlime
-MetalKing
-Andreal
-GreatDrak
-Kingleo
-Blizzardy
-ZapBird
-WhipBird
-GoldGolem   
+WhiteKing   =       Skullgon    +       SpotKing
+WhiteKing   =       DeadNoble    +       SpotKing
+WhiteKing   =       BoneSlave    +       SpotKing
+WhiteKing   =       Skeletor    +       SpotKing
+WhiteKing   =       Skullgon    +       KingSlime
+WhiteKing   =       DeadNoble    +       KingSlime
+WhiteKing   =       BoneSlave    +       KingSlime
+WhiteKing   =       Skeletor    +       KingSlime
+WhiteKing   =       Skullgon    +       MetalKing
+WhiteKing   =       DeadNoble    +       MetalKing
+WhiteKing   =       BoneSlave    +       MetalKing
+WhiteKing   =       Skeletor    +       MetalKing
+WhiteKing   =       Skullgon    +       Andreal
+WhiteKing   =       DeadNoble    +       Andreal
+WhiteKing   =       BoneSlave    +       Andreal
+WhiteKing   =       Skeletor    +       Andreal
+WhiteKing   =       Skullgon    +       GreatDrak
+WhiteKing   =       DeadNoble    +       GreatDrak
+WhiteKing   =       BoneSlave    +       GreatDrak
+WhiteKing   =       Skeletor    +       GreatDrak
+WhiteKing   =       Skullgon    +       KingLeo
+WhiteKing   =       DeadNoble    +       KingLeo
+WhiteKing   =       BoneSlave    +       KingLeo
+WhiteKing   =       Skeletor    +       KingLeo
+WhiteKing   =       Skullgon    +       Blizzardy
+WhiteKing   =       DeadNoble    +       Blizzardy
+WhiteKing   =       BoneSlave    +       Blizzardy
+WhiteKing   =       Skeletor    +       Blizzardy
+WhiteKing   =       Skullgon    +       ZapBird
+WhiteKing   =       DeadNoble    +       ZapBird
+WhiteKing   =       BoneSlave    +       ZapBird
+WhiteKing   =       Skeletor    +       ZapBird
+WhiteKing   =       Skullgon    +       WhipBird
+WhiteKing   =       DeadNoble    +       WhipBird
+WhiteKing   =       BoneSlave    +       WhipBird
+WhiteKing   =       Skeletor    +       WhipBird
+WhiteKing   =       Skullgon    +       GoldGolem
+WhiteKing   =       DeadNoble    +       GoldGolem
+WhiteKing   =       BoneSlave    +       GoldGolem
+WhiteKing   =       Skeletor    +       GoldGolem
 Whiteking   =       AnyZombie  +       AnyBoss    
-Boneslave   =       Mummy
-DeadNite
-Hork    +       RockSlime
-SlimeBorg
-LandOwl
-MadGoose
-FloraMan
-HornBeet
-Gremlin     
+Boneslave   =       Mummy    +       RockSlime
+Boneslave   =       DeadNite    +       RockSlime
+Boneslave   =       Hork    +       RockSlime
+Boneslave   =       Mummy    +       SlimeBorg
+Boneslave   =       DeadNite    +       SlimeBorg
+Boneslave   =       Hork    +       SlimeBorg
+Boneslave   =       Mummy    +       LandOwl
+Boneslave   =       DeadNite    +       LandOwl
+Boneslave   =       Hork    +       LandOwl
+Boneslave   =       Mummy    +       MadGoose
+Boneslave   =       DeadNite    +       MadGoose
+Boneslave   =       Hork    +       MadGoose
+Boneslave   =       Mummy    +       FloraMan
+Boneslave   =       DeadNite    +       FloraMan
+Boneslave   =       Hork    +       FloraMan
+Boneslave   =       Mummy    +       HornBeat
+Boneslave   =       DeadNite    +       HornBeat
+Boneslave   =       Hork    +       HornBeat
+Boneslave   =       Mummy    +       Gremlin
+Boneslave   =       DeadNite    +       Gremlin
+Boneslave   =       Hork    +       Gremlin
 Skeletor    =       Mummy
 DeadNite
 Hork
