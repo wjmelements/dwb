@@ -13,6 +13,7 @@ while (<>) {
 %costs;
 %cheapest;
 @cheapfamilies = qw/Beast Bird Bug Devil Dragon Material Plant Slime Water Zombie/;
+$costs{'AnyBoss'} = 9; # via DracoLordHumanForm, the cheapest boss
 foreach $family (@cheapfamilies) {
     $costs{"Any$family"} = 1;
 }
