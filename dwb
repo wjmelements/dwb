@@ -4,4 +4,4 @@ if [ "$1" = "help" ] || [ -z "$1" ];
         echo "usage: dwb <monster>";
         exit
 fi
-grep -RHIn "$*" .
+grep -RHIn "$*" db
