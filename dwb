@@ -1,4 +1,8 @@
 #!/bin/bash
+
+cd $(dirname $0)
+
+
 if [ "$1" = "help" ] || [ -z "$1" ];
     then
         echo "usage: dwb <monster>";

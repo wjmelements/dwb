@@ -5,7 +5,6 @@ while (<>) {
     if (/^(\w+)\s+=\s+(\w+)\s+\+\s+(\w+)\s*$/) {
         $families{$1}= $ARGV;
         $recipe{$2}{$3} = $1; 
-        #$recipe{$3}{$2} = $1; 
     } else {
         print "Nonconforming line: $_";
     }
@@ -20,7 +19,6 @@ foreach $family (@cheapfamilies) {
 $change = 1;
 while ($change) {
     $change = 0;
-    print "ROUND\n";
     foreach my $part1 (keys %recipe) {
         foreach my $part2 (keys %{$recipe{$part1}} ) {
             if ($costs{$part2} and $costs{$part1}) {
@@ -35,6 +33,6 @@ while ($change) {
         }
     }
 }
-foreach $monster (sort keys %costs) {
+foreach $monster (sort { $costs{$a} <=> $costs{$b} } keys %costs) {
     print "$monster: $costs{$monster} ($cheapest{$monster}) $families{$monster}\n";
 }
